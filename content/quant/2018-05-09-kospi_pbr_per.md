@@ -1,9 +1,9 @@
-title: 2018년 4월 29일 코스피 종목 PBR+PER 순위
+title: [2018년 04월 29일] 코스피 종목 PBR+PER 순위
 date: 2018-04-29
 tags: 코스피, pbr, per, 순위
 slug: kospi_pbr_per
 
-2018년 4월 29일 코스피 종목 PBR+PER 순위입니다. PBR이 0.2 미만이거나 PER가 0 이하인 종목은 제외입니다.
+2018년 4월 29일 기준 코스피 종목 PBR+PER 순위입니다. PBR이 0.2 미만이거나 PER가 0 이하인 종목은 제외입니다.
 
 <table border="1" class="dataframe">
   <thead>
@@ -13,4896 +13,6130 @@ slug: kospi_pbr_per
       <th>종목코드</th>
       <th>PBR</th>
       <th>PER</th>
+      <th>rank_PBR</th>
+      <th>rank_PER</th>
       <th>rank_PBR_PER</th>
+    </tr>
+    <tr>
+      <th>rank</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>17</th>
+      <th>1</th>
       <td>서연</td>
       <td>007860</td>
       <td>0.26</td>
       <td>1.67</td>
+      <td>40</td>
+      <td>169</td>
       <td>104.5</td>
     </tr>
     <tr>
-      <th>25</th>
+      <th>2</th>
       <td>선창산업</td>
       <td>002820</td>
       <td>0.33</td>
       <td>10.21</td>
+      <td>49</td>
+      <td>176</td>
       <td>112.5</td>
     </tr>
     <tr>
-      <th>31</th>
+      <th>3</th>
       <td>삼부토건</td>
       <td>001470</td>
       <td>0.43</td>
       <td>0.20</td>
+      <td>92</td>
+      <td>167</td>
       <td>129.5</td>
     </tr>
     <tr>
-      <th>32</th>
+      <th>4</th>
       <td>세종공업</td>
       <td>033530</td>
       <td>0.40</td>
       <td>10.72</td>
+      <td>77</td>
+      <td>194</td>
       <td>135.5</td>
     </tr>
     <tr>
-      <th>33</th>
+      <th>5</th>
       <td>삼천리</td>
       <td>004690</td>
       <td>0.36</td>
       <td>11.50</td>
+      <td>65</td>
+      <td>217</td>
       <td>141.0</td>
     </tr>
     <tr>
-      <th>36</th>
+      <th>6</th>
       <td>현대위아</td>
       <td>011210</td>
       <td>0.45</td>
       <td>10.91</td>
+      <td>101</td>
+      <td>202</td>
       <td>151.5</td>
     </tr>
     <tr>
-      <th>38</th>
+      <th>7</th>
       <td>동일제강</td>
       <td>002690</td>
       <td>0.43</td>
       <td>11.81</td>
+      <td>89</td>
+      <td>225</td>
       <td>157.0</td>
     </tr>
     <tr>
-      <th>40</th>
+      <th>8</th>
       <td>우리은행</td>
       <td>000030</td>
       <td>0.53</td>
       <td>10.24</td>
+      <td>137</td>
+      <td>180</td>
       <td>158.5</td>
     </tr>
     <tr>
-      <th>41</th>
+      <th>9</th>
       <td>일신방직</td>
       <td>003200</td>
       <td>0.37</td>
       <td>12.38</td>
+      <td>70</td>
+      <td>250</td>
       <td>160.0</td>
     </tr>
     <tr>
-      <th>42</th>
+      <th>10</th>
       <td>디와이</td>
       <td>013570</td>
       <td>0.50</td>
       <td>10.82</td>
+      <td>124</td>
+      <td>197</td>
       <td>160.5</td>
     </tr>
     <tr>
-      <th>43</th>
+      <th>11</th>
       <td>SJM홀딩스</td>
       <td>025530</td>
       <td>0.51</td>
       <td>10.85</td>
+      <td>128</td>
+      <td>200</td>
       <td>164.0</td>
     </tr>
     <tr>
-      <th>44</th>
+      <th>12</th>
       <td>대한제분</td>
       <td>001130</td>
       <td>0.48</td>
       <td>11.55</td>
+      <td>111</td>
+      <td>221</td>
       <td>166.0</td>
     </tr>
     <tr>
-      <th>46</th>
+      <th>13</th>
       <td>인지컨트롤스</td>
       <td>023800</td>
       <td>0.56</td>
       <td>10.41</td>
+      <td>154</td>
+      <td>183</td>
       <td>168.5</td>
     </tr>
     <tr>
-      <th>48</th>
+      <th>14</th>
       <td>만호제강</td>
       <td>001080</td>
       <td>0.34</td>
       <td>13.74</td>
+      <td>53</td>
+      <td>289</td>
       <td>171.0</td>
     </tr>
     <tr>
-      <th>49</th>
+      <th>15</th>
       <td>SK디스커버리</td>
       <td>006120</td>
       <td>0.59</td>
       <td>10.00</td>
+      <td>172</td>
+      <td>171</td>
       <td>171.5</td>
     </tr>
     <tr>
-      <th>51</th>
+      <th>16</th>
       <td>BYC</td>
       <td>001460</td>
       <td>0.60</td>
       <td>10.17</td>
+      <td>174</td>
+      <td>174</td>
       <td>174.0</td>
     </tr>
     <tr>
-      <th>53</th>
+      <th>17</th>
       <td>세아베스틸</td>
       <td>001430</td>
       <td>0.56</td>
       <td>10.83</td>
+      <td>156</td>
+      <td>199</td>
       <td>177.5</td>
     </tr>
     <tr>
-      <th>54</th>
+      <th>18</th>
       <td>삼성공조</td>
       <td>006660</td>
       <td>0.49</td>
       <td>12.38</td>
+      <td>117</td>
+      <td>249</td>
       <td>183.0</td>
     </tr>
     <tr>
-      <th>55</th>
+      <th>19</th>
       <td>대성에너지</td>
       <td>117580</td>
       <td>0.56</td>
       <td>11.69</td>
+      <td>149</td>
+      <td>222</td>
       <td>185.5</td>
     </tr>
     <tr>
-      <th>57</th>
+      <th>20</th>
       <td>기업은행</td>
       <td>024110</td>
       <td>0.62</td>
       <td>10.23</td>
+      <td>196</td>
+      <td>179</td>
       <td>187.5</td>
     </tr>
     <tr>
-      <th>58</th>
+      <th>21</th>
       <td>동일산업</td>
       <td>004890</td>
       <td>0.54</td>
       <td>12.02</td>
+      <td>140</td>
+      <td>238</td>
       <td>189.0</td>
     </tr>
     <tr>
-      <th>63</th>
+      <th>22</th>
       <td>한양증권</td>
       <td>001750</td>
       <td>0.39</td>
       <td>14.78</td>
+      <td>72</td>
+      <td>314</td>
       <td>193.0</td>
     </tr>
     <tr>
-      <th>65</th>
+      <th>23</th>
       <td>고려제강</td>
       <td>002240</td>
       <td>0.42</td>
       <td>14.27</td>
+      <td>85</td>
+      <td>302</td>
       <td>193.5</td>
     </tr>
     <tr>
-      <th>66</th>
+      <th>24</th>
       <td>KCTC</td>
       <td>009070</td>
       <td>0.56</td>
       <td>12.10</td>
+      <td>148</td>
+      <td>239</td>
       <td>193.5</td>
     </tr>
     <tr>
-      <th>69</th>
+      <th>25</th>
       <td>DB금융투자</td>
       <td>016610</td>
       <td>0.33</td>
       <td>1560.00</td>
+      <td>52</td>
+      <td>339</td>
       <td>195.5</td>
     </tr>
     <tr>
-      <th>70</th>
+      <th>26</th>
       <td>하나금융지주</td>
       <td>086790</td>
       <td>0.63</td>
       <td>10.80</td>
+      <td>198</td>
+      <td>196</td>
       <td>197.0</td>
     </tr>
     <tr>
-      <th>75</th>
+      <th>27</th>
       <td>서울가스</td>
       <td>017390</td>
       <td>0.49</td>
       <td>14.50</td>
+      <td>120</td>
+      <td>309</td>
       <td>214.5</td>
     </tr>
     <tr>
-      <th>77</th>
+      <th>28</th>
       <td>우성사료</td>
       <td>006980</td>
       <td>0.67</td>
       <td>102.29</td>
+      <td>225</td>
+      <td>207</td>
       <td>216.0</td>
     </tr>
     <tr>
-      <th>76</th>
+      <th>29</th>
       <td>인터지스</td>
       <td>129260</td>
       <td>0.56</td>
       <td>13.32</td>
+      <td>151</td>
+      <td>281</td>
       <td>216.0</td>
     </tr>
     <tr>
-      <th>78</th>
+      <th>30</th>
       <td>동국실업</td>
       <td>001620</td>
       <td>0.23</td>
       <td>2.68</td>
+      <td>37</td>
+      <td>403</td>
       <td>220.0</td>
     </tr>
     <tr>
-      <th>79</th>
+      <th>31</th>
       <td>콤텍시스템</td>
       <td>031820</td>
       <td>0.74</td>
       <td>10.22</td>
+      <td>264</td>
+      <td>177</td>
       <td>220.5</td>
     </tr>
     <tr>
-      <th>80</th>
+      <th>32</th>
       <td>대동전자</td>
       <td>008110</td>
       <td>0.35</td>
       <td>19.59</td>
+      <td>58</td>
+      <td>388</td>
       <td>223.0</td>
     </tr>
     <tr>
-      <th>81</th>
+      <th>33</th>
       <td>서연이화</td>
       <td>200880</td>
       <td>0.33</td>
       <td>2.44</td>
+      <td>50</td>
+      <td>398</td>
       <td>224.0</td>
     </tr>
     <tr>
-      <th>82</th>
+      <th>34</th>
       <td>흥국화재</td>
       <td>000540</td>
       <td>0.68</td>
       <td>11.86</td>
+      <td>226</td>
+      <td>227</td>
       <td>226.5</td>
     </tr>
     <tr>
-      <th>83</th>
+      <th>35</th>
       <td>삼성카드</td>
       <td>029780</td>
       <td>0.65</td>
       <td>12.18</td>
+      <td>209</td>
+      <td>244</td>
       <td>226.5</td>
     </tr>
     <tr>
-      <th>84</th>
+      <th>36</th>
       <td>방림</td>
       <td>003610</td>
       <td>0.47</td>
       <td>16.43</td>
+      <td>109</td>
+      <td>345</td>
       <td>227.0</td>
     </tr>
     <tr>
-      <th>85</th>
+      <th>37</th>
       <td>화신</td>
       <td>010690</td>
       <td>0.34</td>
       <td>2.62</td>
+      <td>54</td>
+      <td>401</td>
       <td>227.5</td>
     </tr>
     <tr>
-      <th>86</th>
+      <th>38</th>
       <td>아세아제지</td>
       <td>002310</td>
       <td>0.60</td>
       <td>13.36</td>
+      <td>175</td>
+      <td>282</td>
       <td>228.5</td>
     </tr>
     <tr>
-      <th>87</th>
+      <th>39</th>
       <td>삼광글라스</td>
       <td>005090</td>
       <td>0.71</td>
       <td>11.20</td>
+      <td>249</td>
+      <td>213</td>
       <td>231.0</td>
     </tr>
     <tr>
-      <th>90</th>
+      <th>40</th>
       <td>삼화페인트</td>
       <td>000390</td>
       <td>0.67</td>
       <td>12.14</td>
+      <td>224</td>
+      <td>242</td>
       <td>233.0</td>
     </tr>
     <tr>
-      <th>91</th>
+      <th>41</th>
       <td>화천기공</td>
       <td>000850</td>
       <td>0.46</td>
       <td>17.32</td>
+      <td>106</td>
+      <td>360</td>
       <td>233.0</td>
     </tr>
     <tr>
-      <th>89</th>
+      <th>42</th>
       <td>성보화학</td>
       <td>003080</td>
       <td>0.81</td>
       <td>1.73</td>
+      <td>296</td>
+      <td>170</td>
       <td>233.0</td>
     </tr>
     <tr>
-      <th>92</th>
+      <th>43</th>
       <td>동국제강</td>
       <td>001230</td>
       <td>0.48</td>
       <td>16.77</td>
+      <td>116</td>
+      <td>351</td>
       <td>233.5</td>
     </tr>
     <tr>
-      <th>94</th>
+      <th>44</th>
       <td>DSR제강</td>
       <td>069730</td>
       <td>0.75</td>
       <td>10.95</td>
+      <td>269</td>
+      <td>203</td>
       <td>236.0</td>
     </tr>
     <tr>
-      <th>98</th>
+      <th>45</th>
       <td>현대에이치씨엔</td>
       <td>126560</td>
       <td>0.78</td>
       <td>10.56</td>
+      <td>286</td>
+      <td>188</td>
       <td>237.0</td>
     </tr>
     <tr>
-      <th>99</th>
+      <th>46</th>
       <td>경방</td>
       <td>000050</td>
       <td>0.60</td>
       <td>13.86</td>
+      <td>183</td>
+      <td>291</td>
       <td>237.0</td>
     </tr>
     <tr>
-      <th>101</th>
+      <th>47</th>
       <td>태경화학</td>
       <td>006890</td>
       <td>0.58</td>
       <td>14.65</td>
+      <td>167</td>
+      <td>311</td>
       <td>239.0</td>
     </tr>
     <tr>
-      <th>102</th>
+      <th>48</th>
       <td>KTcs</td>
       <td>058850</td>
       <td>0.66</td>
       <td>12.73</td>
+      <td>217</td>
+      <td>261</td>
       <td>239.0</td>
     </tr>
     <tr>
-      <th>103</th>
+      <th>49</th>
       <td>대상홀딩스</td>
       <td>084690</td>
       <td>0.70</td>
       <td>12.13</td>
+      <td>243</td>
+      <td>241</td>
       <td>242.0</td>
     </tr>
     <tr>
-      <th>105</th>
+      <th>50</th>
       <td>조일알미늄</td>
       <td>018470</td>
       <td>0.43</td>
       <td>2.53</td>
+      <td>90</td>
+      <td>399</td>
       <td>244.5</td>
     </tr>
     <tr>
-      <th>108</th>
+      <th>51</th>
       <td>이건산업</td>
       <td>008250</td>
       <td>0.59</td>
       <td>148.53</td>
+      <td>170</td>
+      <td>321</td>
       <td>245.5</td>
     </tr>
     <tr>
-      <th>109</th>
+      <th>52</th>
       <td>화승알앤에이</td>
       <td>013520</td>
       <td>0.44</td>
       <td>2.29</td>
+      <td>97</td>
+      <td>396</td>
       <td>246.5</td>
     </tr>
     <tr>
-      <th>110</th>
+      <th>53</th>
       <td>한국내화</td>
       <td>010040</td>
       <td>0.71</td>
       <td>12.43</td>
+      <td>245</td>
+      <td>251</td>
       <td>248.0</td>
     </tr>
     <tr>
-      <th>111</th>
+      <th>54</th>
       <td>대림B&amp;Co</td>
       <td>005750</td>
       <td>0.69</td>
       <td>12.79</td>
+      <td>233</td>
+      <td>264</td>
       <td>248.5</td>
     </tr>
     <tr>
-      <th>112</th>
+      <th>55</th>
       <td>평화홀딩스</td>
       <td>010770</td>
       <td>0.63</td>
       <td>14.24</td>
+      <td>199</td>
+      <td>300</td>
       <td>249.5</td>
     </tr>
     <tr>
-      <th>114</th>
+      <th>56</th>
       <td>TCC동양</td>
       <td>002710</td>
       <td>0.45</td>
       <td>2.59</td>
+      <td>102</td>
+      <td>400</td>
       <td>251.0</td>
     </tr>
     <tr>
-      <th>116</th>
+      <th>57</th>
       <td>삼영전자</td>
       <td>005680</td>
       <td>0.52</td>
       <td>18.33</td>
+      <td>130</td>
+      <td>373</td>
       <td>251.5</td>
     </tr>
     <tr>
-      <th>118</th>
+      <th>58</th>
       <td>대신증권</td>
       <td>003540</td>
       <td>0.67</td>
       <td>13.39</td>
+      <td>220</td>
+      <td>285</td>
       <td>252.5</td>
     </tr>
     <tr>
-      <th>119</th>
+      <th>59</th>
       <td>아세아시멘트</td>
       <td>183190</td>
       <td>0.75</td>
       <td>12.00</td>
+      <td>270</td>
+      <td>235</td>
       <td>252.5</td>
     </tr>
     <tr>
-      <th>122</th>
+      <th>60</th>
       <td>대림산업</td>
       <td>000210</td>
       <td>0.72</td>
       <td>12.52</td>
+      <td>254</td>
+      <td>255</td>
       <td>254.5</td>
     </tr>
     <tr>
-      <th>124</th>
+      <th>61</th>
       <td>KB금융</td>
       <td>105560</td>
       <td>0.83</td>
       <td>10.95</td>
+      <td>309</td>
+      <td>204</td>
       <td>256.5</td>
     </tr>
     <tr>
-      <th>123</th>
+      <th>62</th>
       <td>웅진씽크빅</td>
       <td>095720</td>
       <td>0.88</td>
       <td>10.17</td>
+      <td>340</td>
+      <td>173</td>
       <td>256.5</td>
     </tr>
     <tr>
-      <th>126</th>
+      <th>63</th>
       <td>경인전자</td>
       <td>009140</td>
       <td>0.72</td>
       <td>12.73</td>
+      <td>255</td>
+      <td>260</td>
       <td>257.5</td>
     </tr>
     <tr>
-      <th>130</th>
+      <th>64</th>
       <td>영풍제지</td>
       <td>006740</td>
       <td>0.82</td>
       <td>11.34</td>
+      <td>304</td>
+      <td>216</td>
       <td>260.0</td>
     </tr>
     <tr>
-      <th>135</th>
+      <th>65</th>
       <td>노루홀딩스</td>
       <td>000320</td>
       <td>0.62</td>
       <td>15.30</td>
+      <td>197</td>
+      <td>324</td>
       <td>260.5</td>
     </tr>
     <tr>
-      <th>136</th>
+      <th>66</th>
       <td>삼성생명</td>
       <td>032830</td>
       <td>0.88</td>
       <td>10.26</td>
+      <td>341</td>
+      <td>181</td>
       <td>261.0</td>
     </tr>
     <tr>
-      <th>139</th>
+      <th>67</th>
       <td>LG하우시스</td>
       <td>108670</td>
       <td>0.87</td>
       <td>10.82</td>
+      <td>333</td>
+      <td>198</td>
       <td>265.5</td>
     </tr>
     <tr>
-      <th>141</th>
+      <th>68</th>
       <td>모토닉</td>
       <td>009680</td>
       <td>0.87</td>
       <td>10.79</td>
+      <td>337</td>
+      <td>195</td>
       <td>266.0</td>
     </tr>
     <tr>
-      <th>142</th>
+      <th>69</th>
       <td>사조씨푸드</td>
       <td>014710</td>
       <td>0.65</td>
       <td>15.79</td>
+      <td>207</td>
+      <td>331</td>
       <td>269.0</td>
     </tr>
     <tr>
-      <th>143</th>
+      <th>70</th>
       <td>S&amp;T모티브</td>
       <td>064960</td>
       <td>0.70</td>
       <td>14.16</td>
+      <td>242</td>
+      <td>297</td>
       <td>269.5</td>
     </tr>
     <tr>
-      <th>144</th>
+      <th>71</th>
       <td>부국철강</td>
       <td>026940</td>
       <td>0.56</td>
       <td>19.56</td>
+      <td>158</td>
+      <td>387</td>
       <td>272.5</td>
     </tr>
     <tr>
-      <th>148</th>
+      <th>72</th>
       <td>한국전력</td>
       <td>015760</td>
       <td>0.34</td>
       <td>3.41</td>
+      <td>57</td>
+      <td>492</td>
       <td>274.5</td>
     </tr>
     <tr>
-      <th>150</th>
+      <th>73</th>
       <td>쌍용차</td>
       <td>003620</td>
       <td>0.85</td>
       <td>11.94</td>
+      <td>324</td>
+      <td>228</td>
       <td>276.0</td>
     </tr>
     <tr>
-      <th>153</th>
+      <th>74</th>
       <td>남양유업</td>
       <td>003920</td>
       <td>0.68</td>
       <td>15.44</td>
+      <td>227</td>
+      <td>327</td>
       <td>277.0</td>
     </tr>
     <tr>
-      <th>154</th>
+      <th>75</th>
       <td>아이마켓코리아</td>
       <td>122900</td>
       <td>0.83</td>
       <td>12.21</td>
+      <td>311</td>
+      <td>246</td>
       <td>278.5</td>
     </tr>
     <tr>
-      <th>156</th>
+      <th>76</th>
       <td>동양고속</td>
       <td>084670</td>
       <td>0.76</td>
       <td>13.36</td>
+      <td>276</td>
+      <td>283</td>
       <td>279.5</td>
     </tr>
     <tr>
-      <th>155</th>
+      <th>77</th>
       <td>한농화성</td>
       <td>011500</td>
       <td>0.94</td>
       <td>10.70</td>
+      <td>367</td>
+      <td>192</td>
       <td>279.5</td>
     </tr>
     <tr>
-      <th>157</th>
+      <th>78</th>
       <td>현대중공업</td>
       <td>009540</td>
       <td>0.67</td>
       <td>16.13</td>
+      <td>219</td>
+      <td>343</td>
       <td>281.0</td>
     </tr>
     <tr>
-      <th>158</th>
+      <th>79</th>
       <td>모나미</td>
       <td>005360</td>
       <td>0.89</td>
       <td>11.54</td>
+      <td>345</td>
+      <td>220</td>
       <td>282.5</td>
     </tr>
     <tr>
-      <th>159</th>
+      <th>80</th>
       <td>종근당홀딩스</td>
       <td>001630</td>
       <td>0.97</td>
       <td>10.53</td>
+      <td>382</td>
+      <td>186</td>
       <td>284.0</td>
     </tr>
     <tr>
-      <th>160</th>
+      <th>81</th>
       <td>가온전선</td>
       <td>000500</td>
       <td>0.43</td>
       <td>27.69</td>
+      <td>91</td>
+      <td>477</td>
       <td>284.0</td>
     </tr>
     <tr>
-      <th>161</th>
+      <th>82</th>
       <td>유화증권</td>
       <td>003460</td>
       <td>0.48</td>
       <td>24.83</td>
+      <td>113</td>
+      <td>458</td>
       <td>285.5</td>
     </tr>
     <tr>
-      <th>163</th>
+      <th>83</th>
       <td>WISCOM</td>
       <td>024070</td>
       <td>0.45</td>
       <td>28.06</td>
+      <td>100</td>
+      <td>480</td>
       <td>290.0</td>
     </tr>
     <tr>
-      <th>164</th>
+      <th>84</th>
       <td>일동홀딩스</td>
       <td>000230</td>
       <td>1.03</td>
       <td>0.96</td>
+      <td>412</td>
+      <td>168</td>
       <td>290.0</td>
     </tr>
     <tr>
-      <th>166</th>
+      <th>85</th>
       <td>동양</td>
       <td>001520</td>
       <td>0.61</td>
       <td>19.82</td>
+      <td>191</td>
+      <td>391</td>
       <td>291.0</td>
     </tr>
     <tr>
-      <th>167</th>
+      <th>86</th>
       <td>이수화학</td>
       <td>005950</td>
       <td>0.69</td>
       <td>16.79</td>
+      <td>235</td>
+      <td>353</td>
       <td>294.0</td>
     </tr>
     <tr>
-      <th>169</th>
+      <th>87</th>
       <td>아이엔지생명</td>
       <td>079440</td>
       <td>0.81</td>
       <td>14.03</td>
+      <td>297</td>
+      <td>294</td>
       <td>295.5</td>
     </tr>
     <tr>
-      <th>168</th>
+      <th>88</th>
       <td>코오롱인더</td>
       <td>120110</td>
       <td>0.96</td>
       <td>11.22</td>
+      <td>377</td>
+      <td>214</td>
       <td>295.5</td>
     </tr>
     <tr>
-      <th>171</th>
+      <th>89</th>
       <td>조선내화</td>
       <td>000480</td>
       <td>0.61</td>
       <td>20.00</td>
+      <td>187</td>
+      <td>407</td>
       <td>297.0</td>
     </tr>
     <tr>
-      <th>172</th>
+      <th>90</th>
       <td>삼아알미늄</td>
       <td>006110</td>
       <td>0.37</td>
       <td>38.32</td>
+      <td>68</td>
+      <td>528</td>
       <td>298.0</td>
     </tr>
     <tr>
-      <th>173</th>
+      <th>91</th>
       <td>삼성증권</td>
       <td>016360</td>
       <td>0.76</td>
       <td>15.11</td>
+      <td>274</td>
+      <td>322</td>
       <td>298.0</td>
     </tr>
     <tr>
-      <th>174</th>
+      <th>92</th>
       <td>인천도시가스</td>
       <td>034590</td>
       <td>0.81</td>
       <td>14.40</td>
+      <td>293</td>
+      <td>304</td>
       <td>298.5</td>
     </tr>
     <tr>
-      <th>175</th>
+      <th>93</th>
       <td>노루페인트</td>
       <td>090350</td>
       <td>0.66</td>
       <td>19.14</td>
+      <td>215</td>
+      <td>383</td>
       <td>299.0</td>
     </tr>
     <tr>
-      <th>176</th>
+      <th>94</th>
       <td>사조오양</td>
       <td>006090</td>
       <td>0.98</td>
       <td>11.09</td>
+      <td>389</td>
+      <td>210</td>
       <td>299.5</td>
     </tr>
     <tr>
-      <th>177</th>
+      <th>95</th>
       <td>KISCO홀딩스</td>
       <td>001940</td>
       <td>0.35</td>
       <td>4.74</td>
+      <td>59</td>
+      <td>542</td>
       <td>300.5</td>
     </tr>
     <tr>
-      <th>178</th>
+      <th>96</th>
       <td>종근당바이오</td>
       <td>063160</td>
       <td>0.89</td>
       <td>12.51</td>
+      <td>349</td>
+      <td>254</td>
       <td>301.5</td>
     </tr>
     <tr>
-      <th>179</th>
+      <th>97</th>
       <td>KISCO홀딩스</td>
       <td>001940</td>
       <td>0.35</td>
       <td>4.74</td>
+      <td>60</td>
+      <td>543</td>
       <td>301.5</td>
     </tr>
     <tr>
-      <th>181</th>
+      <th>98</th>
       <td>하이스틸</td>
       <td>071090</td>
       <td>0.62</td>
       <td>20.18</td>
+      <td>194</td>
+      <td>410</td>
       <td>302.0</td>
     </tr>
     <tr>
-      <th>180</th>
+      <th>99</th>
       <td>이화산업</td>
       <td>000760</td>
       <td>0.56</td>
       <td>230.53</td>
+      <td>155</td>
+      <td>449</td>
       <td>302.0</td>
     </tr>
     <tr>
-      <th>182</th>
+      <th>100</th>
       <td>세원정공</td>
       <td>021820</td>
       <td>0.28</td>
       <td>44.36</td>
+      <td>43</td>
+      <td>562</td>
       <td>302.5</td>
     </tr>
     <tr>
-      <th>184</th>
+      <th>101</th>
       <td>롯데손해보험</td>
       <td>000400</td>
       <td>0.83</td>
       <td>14.20</td>
+      <td>307</td>
+      <td>299</td>
       <td>303.0</td>
     </tr>
     <tr>
-      <th>183</th>
+      <th>102</th>
       <td>일진전기</td>
       <td>103590</td>
       <td>0.71</td>
       <td>161.84</td>
+      <td>250</td>
+      <td>356</td>
       <td>303.0</td>
     </tr>
     <tr>
-      <th>185</th>
+      <th>103</th>
       <td>한솔로지스틱스</td>
       <td>009180</td>
       <td>0.97</td>
       <td>11.76</td>
+      <td>383</td>
+      <td>224</td>
       <td>303.5</td>
     </tr>
     <tr>
-      <th>186</th>
+      <th>104</th>
       <td>DRB동일</td>
       <td>004840</td>
       <td>0.48</td>
       <td>3.94</td>
+      <td>112</td>
+      <td>496</td>
       <td>304.0</td>
     </tr>
     <tr>
-      <th>187</th>
+      <th>105</th>
       <td>넥센</td>
       <td>005720</td>
       <td>0.48</td>
       <td>3.93</td>
+      <td>114</td>
+      <td>495</td>
       <td>304.5</td>
     </tr>
     <tr>
-      <th>190</th>
+      <th>106</th>
       <td>KSS해운</td>
       <td>044450</td>
       <td>0.83</td>
       <td>14.39</td>
+      <td>310</td>
+      <td>303</td>
       <td>306.5</td>
     </tr>
     <tr>
-      <th>191</th>
+      <th>107</th>
       <td>한일시멘트</td>
       <td>003300</td>
       <td>0.84</td>
       <td>14.25</td>
+      <td>316</td>
+      <td>301</td>
       <td>308.5</td>
     </tr>
     <tr>
-      <th>193</th>
+      <th>108</th>
       <td>LF</td>
       <td>093050</td>
       <td>0.78</td>
       <td>15.96</td>
+      <td>284</td>
+      <td>335</td>
       <td>309.5</td>
     </tr>
     <tr>
-      <th>194</th>
+      <th>109</th>
       <td>삼영무역</td>
       <td>002810</td>
       <td>1.01</td>
       <td>11.53</td>
+      <td>400</td>
+      <td>219</td>
       <td>309.5</td>
     </tr>
     <tr>
-      <th>192</th>
+      <th>110</th>
       <td>SJM</td>
       <td>123700</td>
       <td>0.42</td>
       <td>4.43</td>
+      <td>83</td>
+      <td>536</td>
       <td>309.5</td>
     </tr>
     <tr>
-      <th>195</th>
+      <th>111</th>
       <td>한국프랜지</td>
       <td>010100</td>
       <td>0.29</td>
       <td>5.17</td>
+      <td>44</td>
+      <td>576</td>
       <td>310.0</td>
     </tr>
     <tr>
-      <th>196</th>
+      <th>112</th>
       <td>한국유리</td>
       <td>002000</td>
       <td>0.75</td>
       <td>16.69</td>
+      <td>271</td>
+      <td>350</td>
       <td>310.5</td>
     </tr>
     <tr>
-      <th>198</th>
+      <th>113</th>
       <td>제일연마</td>
       <td>001560</td>
       <td>1.02</td>
       <td>11.50</td>
+      <td>406</td>
+      <td>218</td>
       <td>312.0</td>
     </tr>
     <tr>
-      <th>200</th>
+      <th>114</th>
       <td>한국카본</td>
       <td>017960</td>
       <td>0.83</td>
       <td>14.90</td>
+      <td>308</td>
+      <td>318</td>
       <td>313.0</td>
     </tr>
     <tr>
-      <th>201</th>
+      <th>115</th>
       <td>한섬</td>
       <td>020000</td>
       <td>0.93</td>
       <td>12.91</td>
+      <td>361</td>
+      <td>267</td>
       <td>314.0</td>
     </tr>
     <tr>
-      <th>202</th>
+      <th>116</th>
       <td>신도리코</td>
       <td>029530</td>
       <td>0.72</td>
       <td>18.71</td>
+      <td>252</td>
+      <td>379</td>
       <td>315.5</td>
     </tr>
     <tr>
-      <th>203</th>
+      <th>117</th>
       <td>SK이노베이션</td>
       <td>096770</td>
       <td>1.08</td>
       <td>10.96</td>
+      <td>429</td>
+      <td>205</td>
       <td>317.0</td>
     </tr>
     <tr>
-      <th>204</th>
+      <th>118</th>
       <td>퍼시스</td>
       <td>016800</td>
       <td>0.96</td>
       <td>12.60</td>
+      <td>378</td>
+      <td>257</td>
       <td>317.5</td>
     </tr>
     <tr>
-      <th>205</th>
+      <th>119</th>
       <td>한화에어로스페이스</td>
       <td>012450</td>
       <td>0.55</td>
       <td>3.71</td>
+      <td>143</td>
+      <td>493</td>
       <td>318.0</td>
     </tr>
     <tr>
-      <th>207</th>
+      <th>120</th>
       <td>성신양회</td>
       <td>004980</td>
       <td>0.75</td>
       <td>18.66</td>
+      <td>265</td>
+      <td>377</td>
       <td>321.0</td>
     </tr>
     <tr>
-      <th>209</th>
+      <th>121</th>
       <td>LG유플러스</td>
       <td>032640</td>
       <td>1.11</td>
       <td>10.89</td>
+      <td>442</td>
+      <td>201</td>
       <td>321.5</td>
     </tr>
     <tr>
-      <th>210</th>
+      <th>122</th>
       <td>삼호개발</td>
       <td>010960</td>
       <td>1.17</td>
       <td>10.22</td>
+      <td>466</td>
+      <td>178</td>
       <td>322.0</td>
     </tr>
     <tr>
-      <th>212</th>
+      <th>123</th>
       <td>대덕전자</td>
       <td>008060</td>
       <td>0.87</td>
       <td>14.85</td>
+      <td>330</td>
+      <td>317</td>
       <td>323.5</td>
     </tr>
     <tr>
-      <th>213</th>
+      <th>124</th>
       <td>대현</td>
       <td>016090</td>
       <td>0.72</td>
       <td>2.44</td>
+      <td>251</td>
+      <td>397</td>
       <td>324.0</td>
     </tr>
     <tr>
-      <th>215</th>
+      <th>125</th>
       <td>화인베스틸</td>
       <td>133820</td>
       <td>0.96</td>
       <td>121.60</td>
+      <td>379</td>
+      <td>271</td>
       <td>325.0</td>
     </tr>
     <tr>
-      <th>217</th>
+      <th>126</th>
       <td>코오롱글로벌</td>
       <td>003070</td>
       <td>0.56</td>
       <td>31.47</td>
+      <td>150</td>
+      <td>501</td>
       <td>325.5</td>
     </tr>
     <tr>
-      <th>219</th>
+      <th>127</th>
       <td>다우기술</td>
       <td>023590</td>
       <td>1.16</td>
       <td>10.71</td>
+      <td>459</td>
+      <td>193</td>
       <td>326.0</td>
     </tr>
     <tr>
-      <th>220</th>
+      <th>128</th>
       <td>대림통상</td>
       <td>006570</td>
       <td>0.65</td>
       <td>235.71</td>
+      <td>206</td>
+      <td>450</td>
       <td>328.0</td>
     </tr>
     <tr>
-      <th>221</th>
+      <th>129</th>
       <td>영원무역</td>
       <td>111770</td>
       <td>1.06</td>
       <td>12.01</td>
+      <td>424</td>
+      <td>236</td>
       <td>330.0</td>
     </tr>
     <tr>
-      <th>222</th>
+      <th>130</th>
       <td>광주은행</td>
       <td>192530</td>
       <td>0.39</td>
       <td>5.85</td>
+      <td>74</td>
+      <td>586</td>
       <td>330.0</td>
     </tr>
     <tr>
-      <th>223</th>
+      <th>131</th>
       <td>세아홀딩스</td>
       <td>058650</td>
       <td>0.32</td>
       <td>6.11</td>
+      <td>48</td>
+      <td>613</td>
       <td>330.5</td>
     </tr>
     <tr>
-      <th>224</th>
+      <th>132</th>
       <td>동방아그로</td>
       <td>007590</td>
       <td>0.87</td>
       <td>15.87</td>
+      <td>329</td>
+      <td>332</td>
       <td>330.5</td>
     </tr>
     <tr>
-      <th>227</th>
+      <th>133</th>
       <td>한국제지</td>
       <td>002300</td>
       <td>0.24</td>
       <td>6.53</td>
+      <td>38</td>
+      <td>627</td>
       <td>332.5</td>
     </tr>
     <tr>
-      <th>226</th>
+      <th>134</th>
       <td>LG상사</td>
       <td>001120</td>
       <td>0.82</td>
       <td>17.59</td>
+      <td>301</td>
+      <td>364</td>
       <td>332.5</td>
     </tr>
     <tr>
-      <th>228</th>
+      <th>135</th>
       <td>세진중공업</td>
       <td>075580</td>
       <td>1.07</td>
       <td>12.01</td>
+      <td>428</td>
+      <td>237</td>
       <td>332.5</td>
     </tr>
     <tr>
-      <th>229</th>
+      <th>136</th>
       <td>한미글로벌</td>
       <td>053690</td>
       <td>1.14</td>
       <td>11.12</td>
+      <td>454</td>
+      <td>211</td>
       <td>332.5</td>
     </tr>
     <tr>
-      <th>232</th>
+      <th>137</th>
       <td>예스코</td>
       <td>015360</td>
       <td>0.40</td>
       <td>5.91</td>
+      <td>76</td>
+      <td>590</td>
       <td>333.0</td>
     </tr>
     <tr>
-      <th>233</th>
+      <th>138</th>
       <td>현대코퍼레이션홀딩스</td>
       <td>227840</td>
       <td>0.71</td>
       <td>20.68</td>
+      <td>248</td>
+      <td>419</td>
       <td>333.5</td>
     </tr>
     <tr>
-      <th>234</th>
+      <th>139</th>
       <td>롯데하이마트</td>
       <td>071840</td>
       <td>0.93</td>
       <td>14.48</td>
+      <td>360</td>
+      <td>308</td>
       <td>334.0</td>
     </tr>
     <tr>
-      <th>235</th>
+      <th>140</th>
       <td>LS</td>
       <td>006260</td>
       <td>1.02</td>
       <td>12.86</td>
+      <td>403</td>
+      <td>265</td>
       <td>334.0</td>
     </tr>
     <tr>
-      <th>236</th>
+      <th>141</th>
       <td>기아차</td>
       <td>000270</td>
       <td>0.50</td>
       <td>4.82</td>
+      <td>126</td>
+      <td>546</td>
       <td>336.0</td>
     </tr>
     <tr>
-      <th>237</th>
+      <th>142</th>
       <td>깨끗한나라</td>
       <td>004540</td>
       <td>0.75</td>
       <td>20.10</td>
+      <td>266</td>
+      <td>408</td>
       <td>337.0</td>
     </tr>
     <tr>
-      <th>238</th>
+      <th>143</th>
       <td>동방</td>
       <td>004140</td>
       <td>0.61</td>
       <td>3.11</td>
+      <td>185</td>
+      <td>489</td>
       <td>337.0</td>
     </tr>
     <tr>
-      <th>240</th>
+      <th>144</th>
       <td>이구산업</td>
       <td>025820</td>
       <td>0.82</td>
       <td>18.37</td>
+      <td>303</td>
+      <td>374</td>
       <td>338.5</td>
     </tr>
     <tr>
-      <th>241</th>
+      <th>145</th>
       <td>태영건설</td>
       <td>009410</td>
       <td>1.12</td>
       <td>11700.00</td>
+      <td>447</td>
+      <td>231</td>
       <td>339.0</td>
     </tr>
     <tr>
-      <th>242</th>
+      <th>146</th>
       <td>인팩</td>
       <td>023810</td>
       <td>0.45</td>
       <td>5.18</td>
+      <td>103</td>
+      <td>577</td>
       <td>340.0</td>
     </tr>
     <tr>
-      <th>243</th>
+      <th>147</th>
       <td>제주은행</td>
       <td>006220</td>
       <td>0.44</td>
       <td>5.82</td>
+      <td>98</td>
+      <td>584</td>
       <td>341.0</td>
     </tr>
     <tr>
-      <th>244</th>
+      <th>148</th>
       <td>KEC</td>
       <td>092220</td>
       <td>0.59</td>
       <td>327.50</td>
+      <td>173</td>
+      <td>510</td>
       <td>341.5</td>
     </tr>
     <tr>
-      <th>245</th>
+      <th>149</th>
       <td>국도화학</td>
       <td>007690</td>
       <td>0.92</td>
       <td>15.41</td>
+      <td>358</td>
+      <td>326</td>
       <td>342.0</td>
     </tr>
     <tr>
-      <th>246</th>
+      <th>150</th>
       <td>삼정펄프</td>
       <td>009770</td>
       <td>0.53</td>
       <td>4.85</td>
+      <td>138</td>
+      <td>547</td>
       <td>342.5</td>
     </tr>
     <tr>
-      <th>247</th>
+      <th>151</th>
       <td>LG</td>
       <td>003550</td>
       <td>1.03</td>
       <td>13.26</td>
+      <td>411</td>
+      <td>278</td>
       <td>344.5</td>
     </tr>
     <tr>
-      <th>249</th>
+      <th>152</th>
       <td>고려산업</td>
       <td>002140</td>
       <td>1.09</td>
       <td>12.62</td>
+      <td>432</td>
+      <td>258</td>
       <td>345.0</td>
     </tr>
     <tr>
-      <th>248</th>
+      <th>153</th>
       <td>SBS미디어홀딩스</td>
       <td>101060</td>
       <td>0.60</td>
       <td>32.89</td>
+      <td>181</td>
+      <td>509</td>
       <td>345.0</td>
     </tr>
     <tr>
-      <th>250</th>
+      <th>154</th>
       <td>백광소재</td>
       <td>014580</td>
       <td>0.76</td>
       <td>20.54</td>
+      <td>278</td>
+      <td>415</td>
       <td>346.5</td>
     </tr>
     <tr>
-      <th>252</th>
+      <th>155</th>
       <td>사조산업</td>
       <td>007160</td>
       <td>1.05</td>
       <td>13.24</td>
+      <td>417</td>
+      <td>277</td>
       <td>347.0</td>
     </tr>
     <tr>
-      <th>251</th>
+      <th>156</th>
       <td>현대그린푸드</td>
       <td>005440</td>
       <td>1.00</td>
       <td>14.17</td>
+      <td>396</td>
+      <td>298</td>
       <td>347.0</td>
     </tr>
     <tr>
-      <th>253</th>
+      <th>157</th>
       <td>KCC</td>
       <td>002380</td>
       <td>0.69</td>
       <td>25.24</td>
+      <td>234</td>
+      <td>463</td>
       <td>348.5</td>
     </tr>
     <tr>
-      <th>254</th>
+      <th>158</th>
       <td>BGF</td>
       <td>027410</td>
       <td>0.66</td>
       <td>3.33</td>
+      <td>211</td>
+      <td>491</td>
       <td>351.0</td>
     </tr>
     <tr>
-      <th>255</th>
+      <th>159</th>
       <td>미창석유</td>
       <td>003650</td>
       <td>0.57</td>
       <td>4.48</td>
+      <td>164</td>
+      <td>538</td>
       <td>351.0</td>
     </tr>
     <tr>
-      <th>256</th>
+      <th>160</th>
       <td>교보증권</td>
       <td>030610</td>
       <td>0.50</td>
       <td>5.79</td>
+      <td>121</td>
+      <td>583</td>
       <td>352.0</td>
     </tr>
     <tr>
-      <th>257</th>
+      <th>161</th>
       <td>벽산</td>
       <td>007210</td>
       <td>1.28</td>
       <td>10.97</td>
+      <td>499</td>
+      <td>206</td>
       <td>352.5</td>
     </tr>
     <tr>
-      <th>258</th>
+      <th>162</th>
       <td>GS글로벌</td>
       <td>001250</td>
       <td>1.05</td>
       <td>13.78</td>
+      <td>418</td>
+      <td>290</td>
       <td>354.0</td>
     </tr>
     <tr>
-      <th>259</th>
+      <th>163</th>
       <td>무림페이퍼</td>
       <td>009200</td>
       <td>0.36</td>
       <td>665.00</td>
+      <td>63</td>
+      <td>647</td>
       <td>355.0</td>
     </tr>
     <tr>
-      <th>260</th>
+      <th>164</th>
       <td>우신시스템</td>
       <td>017370</td>
       <td>1.13</td>
       <td>12.75</td>
+      <td>448</td>
+      <td>262</td>
       <td>355.0</td>
     </tr>
     <tr>
-      <th>261</th>
+      <th>165</th>
       <td>강남제비스코</td>
       <td>000860</td>
       <td>0.45</td>
       <td>6.07</td>
+      <td>99</td>
+      <td>612</td>
       <td>355.5</td>
     </tr>
     <tr>
-      <th>262</th>
+      <th>166</th>
       <td>JB금융지주</td>
       <td>175330</td>
       <td>0.42</td>
       <td>6.70</td>
+      <td>84</td>
+      <td>630</td>
       <td>357.0</td>
     </tr>
     <tr>
-      <th>263</th>
+      <th>167</th>
       <td>동남합성</td>
       <td>023450</td>
       <td>1.41</td>
       <td>10.55</td>
+      <td>529</td>
+      <td>187</td>
       <td>358.0</td>
     </tr>
     <tr>
-      <th>265</th>
+      <th>168</th>
       <td>한솔홈데코</td>
       <td>025750</td>
       <td>0.92</td>
       <td>17.40</td>
+      <td>356</td>
+      <td>361</td>
       <td>358.5</td>
     </tr>
     <tr>
-      <th>264</th>
+      <th>169</th>
       <td>신영와코루</td>
       <td>005800</td>
       <td>0.40</td>
       <td>6.99</td>
+      <td>79</td>
+      <td>638</td>
       <td>358.5</td>
     </tr>
     <tr>
-      <th>266</th>
+      <th>170</th>
       <td>삼양통상</td>
       <td>002170</td>
       <td>0.53</td>
       <td>5.78</td>
+      <td>136</td>
+      <td>582</td>
       <td>359.0</td>
     </tr>
     <tr>
-      <th>267</th>
+      <th>171</th>
       <td>GS리테일</td>
       <td>007070</td>
       <td>1.44</td>
       <td>10.44</td>
+      <td>535</td>
+      <td>184</td>
       <td>359.5</td>
     </tr>
     <tr>
-      <th>268</th>
+      <th>172</th>
       <td>KTB투자증권</td>
       <td>030210</td>
       <td>1.03</td>
       <td>14.45</td>
+      <td>413</td>
+      <td>307</td>
       <td>360.0</td>
     </tr>
     <tr>
-      <th>269</th>
+      <th>173</th>
       <td>POSCO</td>
       <td>005490</td>
       <td>0.77</td>
       <td>22.40</td>
+      <td>282</td>
+      <td>440</td>
       <td>361.0</td>
     </tr>
     <tr>
-      <th>270</th>
+      <th>174</th>
       <td>현대산업</td>
       <td>012630</td>
       <td>1.33</td>
       <td>11.13</td>
+      <td>513</td>
+      <td>212</td>
       <td>362.5</td>
     </tr>
     <tr>
-      <th>272</th>
+      <th>175</th>
       <td>CJ헬로</td>
       <td>037560</td>
       <td>0.68</td>
       <td>30.72</td>
+      <td>230</td>
+      <td>499</td>
       <td>364.5</td>
     </tr>
     <tr>
-      <th>273</th>
+      <th>176</th>
       <td>롯데쇼핑</td>
       <td>023530</td>
       <td>0.52</td>
       <td>51.52</td>
+      <td>132</td>
+      <td>597</td>
       <td>364.5</td>
     </tr>
     <tr>
-      <th>274</th>
+      <th>177</th>
       <td>윌비스</td>
       <td>008600</td>
       <td>0.76</td>
       <td>24.61</td>
+      <td>272</td>
+      <td>457</td>
       <td>364.5</td>
     </tr>
     <tr>
-      <th>276</th>
+      <th>178</th>
       <td>삼양패키징</td>
       <td>272550</td>
       <td>1.30</td>
       <td>11.74</td>
+      <td>507</td>
+      <td>223</td>
       <td>365.0</td>
     </tr>
     <tr>
-      <th>275</th>
+      <th>179</th>
       <td>만도</td>
       <td>204320</td>
       <td>1.46</td>
       <td>10.66</td>
+      <td>539</td>
+      <td>191</td>
       <td>365.0</td>
     </tr>
     <tr>
-      <th>277</th>
+      <th>180</th>
       <td>SK가스</td>
       <td>018670</td>
       <td>0.61</td>
       <td>4.82</td>
+      <td>188</td>
+      <td>545</td>
       <td>366.5</td>
     </tr>
     <tr>
-      <th>278</th>
+      <th>181</th>
       <td>LIG넥스원</td>
       <td>079550</td>
       <td>1.38</td>
       <td>11.29</td>
+      <td>521</td>
+      <td>215</td>
       <td>368.0</td>
     </tr>
     <tr>
-      <th>279</th>
+      <th>182</th>
       <td>핸즈코퍼레이션</td>
       <td>143210</td>
       <td>0.65</td>
       <td>4.28</td>
+      <td>204</td>
+      <td>534</td>
       <td>369.0</td>
     </tr>
     <tr>
-      <th>280</th>
+      <th>183</th>
       <td>세이브존I&amp;C</td>
       <td>067830</td>
       <td>0.50</td>
       <td>6.18</td>
+      <td>123</td>
+      <td>617</td>
       <td>370.0</td>
     </tr>
     <tr>
-      <th>281</th>
+      <th>184</th>
       <td>신성통상</td>
       <td>005390</td>
       <td>0.81</td>
       <td>23.18</td>
+      <td>295</td>
+      <td>445</td>
       <td>370.0</td>
     </tr>
     <tr>
-      <th>282</th>
+      <th>185</th>
       <td>대림씨엔에스</td>
       <td>004440</td>
       <td>0.63</td>
       <td>4.69</td>
+      <td>200</td>
+      <td>540</td>
       <td>370.0</td>
     </tr>
     <tr>
-      <th>283</th>
+      <th>186</th>
       <td>디피씨</td>
       <td>026890</td>
       <td>1.34</td>
       <td>11.83</td>
+      <td>515</td>
+      <td>226</td>
       <td>370.5</td>
     </tr>
     <tr>
-      <th>284</th>
+      <th>187</th>
       <td>세우글로벌</td>
       <td>013000</td>
       <td>1.44</td>
       <td>107.50</td>
+      <td>534</td>
+      <td>209</td>
       <td>371.5</td>
     </tr>
     <tr>
-      <th>285</th>
+      <th>188</th>
       <td>두산밥캣</td>
       <td>241560</td>
       <td>0.98</td>
       <td>16300.00</td>
+      <td>385</td>
+      <td>358</td>
       <td>371.5</td>
     </tr>
     <tr>
-      <th>286</th>
+      <th>189</th>
       <td>새론오토모티브</td>
       <td>075180</td>
       <td>0.57</td>
       <td>5.42</td>
+      <td>165</td>
+      <td>579</td>
       <td>372.0</td>
     </tr>
     <tr>
-      <th>287</th>
+      <th>190</th>
       <td>기신정기</td>
       <td>092440</td>
       <td>0.60</td>
       <td>451.00</td>
+      <td>179</td>
+      <td>566</td>
       <td>372.5</td>
     </tr>
     <tr>
-      <th>288</th>
+      <th>191</th>
       <td>동화약품</td>
       <td>000020</td>
       <td>1.28</td>
       <td>12.17</td>
+      <td>502</td>
+      <td>243</td>
       <td>372.5</td>
     </tr>
     <tr>
-      <th>289</th>
+      <th>192</th>
       <td>두산</td>
       <td>000150</td>
       <td>1.30</td>
       <td>12.13</td>
+      <td>506</td>
+      <td>240</td>
       <td>373.0</td>
     </tr>
     <tr>
-      <th>290</th>
+      <th>193</th>
       <td>세방</td>
       <td>004360</td>
       <td>0.41</td>
       <td>7.28</td>
+      <td>81</td>
+      <td>666</td>
       <td>373.5</td>
     </tr>
     <tr>
-      <th>292</th>
+      <th>194</th>
       <td>유수홀딩스</td>
       <td>000700</td>
       <td>0.85</td>
       <td>21.92</td>
+      <td>320</td>
+      <td>430</td>
       <td>375.0</td>
     </tr>
     <tr>
-      <th>293</th>
+      <th>195</th>
       <td>현대건설</td>
       <td>000720</td>
       <td>1.12</td>
       <td>14.44</td>
+      <td>446</td>
+      <td>306</td>
       <td>376.0</td>
     </tr>
     <tr>
-      <th>294</th>
+      <th>196</th>
       <td>KC그린홀딩스</td>
       <td>009440</td>
       <td>0.78</td>
       <td>26.16</td>
+      <td>285</td>
+      <td>467</td>
       <td>376.0</td>
     </tr>
     <tr>
-      <th>295</th>
+      <th>197</th>
       <td>풍산홀딩스</td>
       <td>005810</td>
       <td>0.60</td>
       <td>5.17</td>
+      <td>178</td>
+      <td>575</td>
       <td>376.5</td>
     </tr>
     <tr>
-      <th>296</th>
+      <th>198</th>
       <td>S&amp;TC</td>
       <td>100840</td>
       <td>0.47</td>
       <td>65.20</td>
+      <td>108</td>
+      <td>645</td>
       <td>376.5</td>
     </tr>
     <tr>
-      <th>297</th>
+      <th>199</th>
       <td>금강공업</td>
       <td>014280</td>
       <td>0.65</td>
       <td>4.80</td>
+      <td>210</td>
+      <td>544</td>
       <td>377.0</td>
     </tr>
     <tr>
-      <th>298</th>
+      <th>200</th>
       <td>샘표</td>
       <td>007540</td>
       <td>0.62</td>
       <td>43.44</td>
+      <td>195</td>
+      <td>559</td>
       <td>377.0</td>
     </tr>
     <tr>
-      <th>300</th>
+      <th>201</th>
       <td>일정실업</td>
       <td>008500</td>
       <td>0.41</td>
       <td>7.58</td>
+      <td>82</td>
+      <td>673</td>
       <td>377.5</td>
     </tr>
     <tr>
-      <th>299</th>
+      <th>202</th>
       <td>하이트진로홀딩스</td>
       <td>000140</td>
       <td>0.42</td>
       <td>7.40</td>
+      <td>87</td>
+      <td>668</td>
       <td>377.5</td>
     </tr>
     <tr>
-      <th>301</th>
+      <th>203</th>
       <td>한진</td>
       <td>002320</td>
       <td>0.41</td>
       <td>7.70</td>
+      <td>80</td>
+      <td>678</td>
       <td>379.0</td>
     </tr>
     <tr>
-      <th>302</th>
+      <th>204</th>
       <td>BNK금융지주</td>
       <td>138930</td>
       <td>0.50</td>
       <td>6.87</td>
+      <td>125</td>
+      <td>634</td>
       <td>379.5</td>
     </tr>
     <tr>
-      <th>304</th>
+      <th>205</th>
       <td>현대상사</td>
       <td>011760</td>
       <td>0.69</td>
       <td>37.09</td>
+      <td>238</td>
+      <td>523</td>
       <td>380.5</td>
     </tr>
     <tr>
-      <th>306</th>
+      <th>206</th>
       <td>S&amp;T홀딩스</td>
       <td>036530</td>
       <td>0.36</td>
       <td>77.81</td>
+      <td>67</td>
+      <td>695</td>
       <td>381.0</td>
     </tr>
     <tr>
-      <th>305</th>
+      <th>207</th>
       <td>삼성화재</td>
       <td>000810</td>
       <td>1.23</td>
       <td>13.26</td>
+      <td>483</td>
+      <td>279</td>
       <td>381.0</td>
     </tr>
     <tr>
-      <th>307</th>
+      <th>208</th>
       <td>한국주철관</td>
       <td>000970</td>
       <td>1.31</td>
       <td>12.51</td>
+      <td>509</td>
+      <td>253</td>
       <td>381.0</td>
     </tr>
     <tr>
-      <th>308</th>
+      <th>209</th>
       <td>경동인베스트</td>
       <td>012320</td>
       <td>0.30</td>
       <td>8.78</td>
+      <td>45</td>
+      <td>718</td>
       <td>381.5</td>
     </tr>
     <tr>
-      <th>309</th>
+      <th>210</th>
       <td>대상</td>
       <td>001680</td>
       <td>1.13</td>
       <td>14.83</td>
+      <td>450</td>
+      <td>316</td>
       <td>383.0</td>
     </tr>
     <tr>
-      <th>310</th>
+      <th>211</th>
       <td>한세엠케이</td>
       <td>069640</td>
       <td>0.82</td>
       <td>25.10</td>
+      <td>305</td>
+      <td>462</td>
       <td>383.5</td>
     </tr>
     <tr>
-      <th>311</th>
+      <th>212</th>
       <td>한익스프레스</td>
       <td>014130</td>
       <td>1.26</td>
       <td>13.15</td>
+      <td>492</td>
+      <td>276</td>
       <td>384.0</td>
     </tr>
     <tr>
-      <th>313</th>
+      <th>213</th>
       <td>동양생명</td>
       <td>082640</td>
       <td>0.49</td>
       <td>69.83</td>
+      <td>118</td>
+      <td>652</td>
       <td>385.0</td>
     </tr>
     <tr>
-      <th>314</th>
+      <th>214</th>
       <td>한국종합기술</td>
       <td>023350</td>
       <td>0.76</td>
       <td>30.32</td>
+      <td>275</td>
+      <td>498</td>
       <td>386.5</td>
     </tr>
     <tr>
-      <th>315</th>
+      <th>215</th>
       <td>케이씨</td>
       <td>029460</td>
       <td>1.66</td>
       <td>10.46</td>
+      <td>589</td>
+      <td>185</td>
       <td>387.0</td>
     </tr>
     <tr>
-      <th>316</th>
+      <th>216</th>
       <td>비상교육</td>
       <td>100220</td>
       <td>0.68</td>
       <td>4.88</td>
+      <td>228</td>
+      <td>548</td>
       <td>388.0</td>
     </tr>
     <tr>
-      <th>317</th>
+      <th>217</th>
       <td>동일고무벨트</td>
       <td>163560</td>
       <td>0.60</td>
       <td>5.99</td>
+      <td>184</td>
+      <td>593</td>
       <td>388.5</td>
     </tr>
     <tr>
-      <th>319</th>
+      <th>218</th>
       <td>대덕GDS</td>
       <td>004130</td>
       <td>0.74</td>
       <td>34.10</td>
+      <td>263</td>
+      <td>516</td>
       <td>389.5</td>
     </tr>
     <tr>
-      <th>318</th>
+      <th>219</th>
       <td>한국철강</td>
       <td>104700</td>
       <td>0.46</td>
       <td>7.58</td>
+      <td>107</td>
+      <td>672</td>
       <td>389.5</td>
     </tr>
     <tr>
-      <th>320</th>
+      <th>220</th>
       <td>HDC아이콘트롤스</td>
       <td>039570</td>
       <td>1.37</td>
       <td>12.78</td>
+      <td>517</td>
+      <td>263</td>
       <td>390.0</td>
     </tr>
     <tr>
-      <th>322</th>
+      <th>221</th>
       <td>OCI</td>
       <td>010060</td>
       <td>1.16</td>
       <td>15.37</td>
+      <td>457</td>
+      <td>325</td>
       <td>391.0</td>
     </tr>
     <tr>
-      <th>321</th>
+      <th>222</th>
       <td>부산산업</td>
       <td>011390</td>
       <td>1.45</td>
       <td>12.20</td>
+      <td>537</td>
+      <td>245</td>
       <td>391.0</td>
     </tr>
     <tr>
-      <th>323</th>
+      <th>223</th>
       <td>광동제약</td>
       <td>009290</td>
       <td>1.29</td>
       <td>13.29</td>
+      <td>503</td>
+      <td>280</td>
       <td>391.5</td>
     </tr>
     <tr>
-      <th>324</th>
+      <th>224</th>
       <td>KT&amp;G</td>
       <td>033780</td>
       <td>1.91</td>
       <td>10.02</td>
+      <td>614</td>
+      <td>172</td>
       <td>393.0</td>
     </tr>
     <tr>
-      <th>325</th>
+      <th>225</th>
       <td>삼양홀딩스</td>
       <td>000070</td>
       <td>0.73</td>
       <td>37.97</td>
+      <td>260</td>
+      <td>527</td>
       <td>393.5</td>
     </tr>
     <tr>
-      <th>326</th>
+      <th>226</th>
       <td>세아특수강</td>
       <td>019440</td>
       <td>0.56</td>
       <td>6.91</td>
+      <td>152</td>
+      <td>636</td>
       <td>394.0</td>
     </tr>
     <tr>
-      <th>327</th>
+      <th>227</th>
       <td>하이트론</td>
       <td>019490</td>
       <td>0.56</td>
       <td>6.78</td>
+      <td>157</td>
+      <td>631</td>
       <td>394.0</td>
     </tr>
     <tr>
-      <th>329</th>
+      <th>228</th>
       <td>농심홀딩스</td>
       <td>072710</td>
       <td>0.59</td>
       <td>6.22</td>
+      <td>171</td>
+      <td>618</td>
       <td>394.5</td>
     </tr>
     <tr>
-      <th>332</th>
+      <th>229</th>
       <td>SIMPAC</td>
       <td>009160</td>
       <td>0.52</td>
       <td>7.09</td>
+      <td>131</td>
+      <td>658</td>
       <td>394.5</td>
     </tr>
     <tr>
-      <th>331</th>
+      <th>230</th>
       <td>SH에너지화학</td>
       <td>002360</td>
       <td>1.83</td>
       <td>10.37</td>
+      <td>607</td>
+      <td>182</td>
       <td>394.5</td>
     </tr>
     <tr>
-      <th>328</th>
+      <th>231</th>
       <td>NH투자증권</td>
       <td>005940</td>
       <td>1.01</td>
       <td>19.77</td>
+      <td>399</td>
+      <td>390</td>
       <td>394.5</td>
     </tr>
     <tr>
-      <th>330</th>
+      <th>232</th>
       <td>한화생명</td>
       <td>088350</td>
       <td>0.63</td>
       <td>5.89</td>
+      <td>201</td>
+      <td>588</td>
       <td>394.5</td>
     </tr>
     <tr>
-      <th>333</th>
+      <th>233</th>
       <td>현대로템</td>
       <td>064350</td>
       <td>1.63</td>
       <td>103.89</td>
+      <td>582</td>
+      <td>208</td>
       <td>395.0</td>
     </tr>
     <tr>
-      <th>334</th>
+      <th>234</th>
       <td>조광페인트</td>
       <td>004910</td>
       <td>0.66</td>
       <td>5.46</td>
+      <td>212</td>
+      <td>580</td>
       <td>396.0</td>
     </tr>
     <tr>
-      <th>335</th>
+      <th>235</th>
       <td>경농</td>
       <td>002100</td>
       <td>0.96</td>
       <td>20.68</td>
+      <td>375</td>
+      <td>418</td>
       <td>396.5</td>
     </tr>
     <tr>
-      <th>336</th>
+      <th>236</th>
       <td>이마트</td>
       <td>139480</td>
       <td>0.98</td>
       <td>20.00</td>
+      <td>387</td>
+      <td>406</td>
       <td>396.5</td>
     </tr>
     <tr>
-      <th>337</th>
+      <th>237</th>
       <td>대성홀딩스</td>
       <td>016710</td>
       <td>0.34</td>
       <td>9.14</td>
+      <td>56</td>
+      <td>739</td>
       <td>397.5</td>
     </tr>
     <tr>
-      <th>338</th>
+      <th>238</th>
       <td>대한화섬</td>
       <td>003830</td>
       <td>0.40</td>
       <td>8.94</td>
+      <td>75</td>
+      <td>723</td>
       <td>399.0</td>
     </tr>
     <tr>
-      <th>339</th>
+      <th>239</th>
       <td>삼성출판사</td>
       <td>068290</td>
       <td>1.12</td>
       <td>16.88</td>
+      <td>445</td>
+      <td>354</td>
       <td>399.5</td>
     </tr>
     <tr>
-      <th>340</th>
+      <th>240</th>
       <td>현대리바트</td>
       <td>079430</td>
       <td>1.51</td>
       <td>12.32</td>
+      <td>551</td>
+      <td>248</td>
       <td>399.5</td>
     </tr>
     <tr>
-      <th>342</th>
+      <th>241</th>
       <td>지역난방공사</td>
       <td>071320</td>
       <td>0.52</td>
       <td>7.36</td>
+      <td>133</td>
+      <td>667</td>
       <td>400.0</td>
     </tr>
     <tr>
-      <th>341</th>
+      <th>242</th>
       <td>DGB금융지주</td>
       <td>139130</td>
       <td>0.55</td>
       <td>7.05</td>
+      <td>144</td>
+      <td>656</td>
       <td>400.0</td>
     </tr>
     <tr>
-      <th>343</th>
+      <th>243</th>
       <td>세아제강</td>
       <td>003030</td>
       <td>0.44</td>
       <td>8.31</td>
+      <td>96</td>
+      <td>705</td>
       <td>400.5</td>
     </tr>
     <tr>
-      <th>346</th>
+      <th>244</th>
       <td>세방전지</td>
       <td>004490</td>
       <td>0.55</td>
       <td>7.11</td>
+      <td>145</td>
+      <td>660</td>
       <td>402.5</td>
     </tr>
     <tr>
-      <th>344</th>
+      <th>245</th>
       <td>진양화학</td>
       <td>051630</td>
       <td>0.95</td>
       <td>22.25</td>
+      <td>368</td>
+      <td>437</td>
       <td>402.5</td>
     </tr>
     <tr>
-      <th>345</th>
+      <th>246</th>
       <td>화성산업</td>
       <td>002460</td>
       <td>0.66</td>
       <td>5.95</td>
+      <td>213</td>
+      <td>592</td>
       <td>402.5</td>
     </tr>
     <tr>
-      <th>347</th>
+      <th>247</th>
       <td>사조해표</td>
       <td>079660</td>
       <td>0.57</td>
       <td>64.85</td>
+      <td>162</td>
+      <td>644</td>
       <td>403.0</td>
     </tr>
     <tr>
-      <th>348</th>
+      <th>248</th>
       <td>한일철강</td>
       <td>002220</td>
       <td>0.36</td>
       <td>9.24</td>
+      <td>64</td>
+      <td>743</td>
       <td>403.5</td>
     </tr>
     <tr>
-      <th>352</th>
+      <th>249</th>
       <td>한국타이어월드와이드</td>
       <td>000240</td>
       <td>0.61</td>
       <td>6.42</td>
+      <td>186</td>
+      <td>624</td>
       <td>405.0</td>
     </tr>
     <tr>
-      <th>351</th>
+      <th>250</th>
       <td>디아이씨</td>
       <td>092200</td>
       <td>0.95</td>
       <td>22.26</td>
+      <td>372</td>
+      <td>438</td>
       <td>405.0</td>
     </tr>
     <tr>
-      <th>350</th>
+      <th>251</th>
       <td>현대차투자증권</td>
       <td>001500</td>
       <td>0.43</td>
       <td>8.74</td>
+      <td>93</td>
+      <td>717</td>
       <td>405.0</td>
     </tr>
     <tr>
-      <th>349</th>
+      <th>252</th>
       <td>영흥철강</td>
       <td>012160</td>
       <td>0.82</td>
       <td>328.00</td>
+      <td>299</td>
+      <td>511</td>
       <td>405.0</td>
     </tr>
     <tr>
-      <th>354</th>
+      <th>253</th>
       <td>대원화성</td>
       <td>024890</td>
       <td>1.39</td>
       <td>13.58</td>
+      <td>524</td>
+      <td>287</td>
       <td>405.5</td>
     </tr>
     <tr>
-      <th>353</th>
+      <th>254</th>
       <td>롯데푸드</td>
       <td>002270</td>
       <td>1.11</td>
       <td>18.01</td>
+      <td>441</td>
+      <td>370</td>
       <td>405.5</td>
     </tr>
     <tr>
-      <th>355</th>
+      <th>255</th>
       <td>유성기업</td>
       <td>002920</td>
       <td>0.33</td>
       <td>9.74</td>
+      <td>51</td>
+      <td>761</td>
       <td>406.0</td>
     </tr>
     <tr>
-      <th>356</th>
+      <th>256</th>
       <td>한국공항</td>
       <td>005430</td>
       <td>0.51</td>
       <td>7.95</td>
+      <td>127</td>
+      <td>686</td>
       <td>406.5</td>
     </tr>
     <tr>
-      <th>357</th>
+      <th>257</th>
       <td>조흥</td>
       <td>002600</td>
       <td>1.18</td>
       <td>16.48</td>
+      <td>468</td>
+      <td>346</td>
       <td>407.0</td>
     </tr>
     <tr>
-      <th>358</th>
+      <th>258</th>
       <td>한전산업</td>
       <td>130660</td>
       <td>2.06</td>
       <td>10.20</td>
+      <td>640</td>
+      <td>175</td>
       <td>407.5</td>
     </tr>
     <tr>
-      <th>359</th>
+      <th>259</th>
       <td>금호산업</td>
       <td>002990</td>
       <td>1.50</td>
       <td>12.93</td>
+      <td>548</td>
+      <td>268</td>
       <td>408.0</td>
     </tr>
     <tr>
-      <th>360</th>
+      <th>260</th>
       <td>고려아연</td>
       <td>010130</td>
       <td>1.48</td>
       <td>12.93</td>
+      <td>546</td>
+      <td>270</td>
       <td>408.0</td>
     </tr>
     <tr>
-      <th>361</th>
+      <th>261</th>
       <td>동양피스톤</td>
       <td>092780</td>
       <td>0.75</td>
       <td>4.95</td>
+      <td>268</td>
+      <td>549</td>
       <td>408.5</td>
     </tr>
     <tr>
-      <th>363</th>
+      <th>262</th>
       <td>원림</td>
       <td>005820</td>
       <td>0.62</td>
       <td>6.80</td>
+      <td>192</td>
+      <td>632</td>
       <td>412.0</td>
     </tr>
     <tr>
-      <th>362</th>
+      <th>263</th>
       <td>진양폴리</td>
       <td>010640</td>
       <td>1.06</td>
       <td>2.67</td>
+      <td>422</td>
+      <td>402</td>
       <td>412.0</td>
     </tr>
     <tr>
-      <th>366</th>
+      <th>264</th>
       <td>태원물산</td>
       <td>001420</td>
       <td>1.00</td>
       <td>21.85</td>
+      <td>397</td>
+      <td>427</td>
       <td>412.0</td>
     </tr>
     <tr>
-      <th>364</th>
+      <th>265</th>
       <td>S-Oil</td>
       <td>010950</td>
       <td>2.01</td>
       <td>10.62</td>
+      <td>634</td>
+      <td>190</td>
       <td>412.0</td>
     </tr>
     <tr>
-      <th>365</th>
+      <th>266</th>
       <td>유니온</td>
       <td>000910</td>
       <td>0.66</td>
       <td>587.78</td>
+      <td>214</td>
+      <td>610</td>
       <td>412.0</td>
     </tr>
     <tr>
-      <th>367</th>
+      <th>267</th>
       <td>자화전자</td>
       <td>033240</td>
       <td>1.11</td>
       <td>19.44</td>
+      <td>440</td>
+      <td>385</td>
       <td>412.5</td>
     </tr>
     <tr>
-      <th>368</th>
+      <th>268</th>
       <td>태양금속</td>
       <td>004100</td>
       <td>0.64</td>
       <td>6.36</td>
+      <td>203</td>
+      <td>622</td>
       <td>412.5</td>
     </tr>
     <tr>
-      <th>371</th>
+      <th>269</th>
       <td>신세계 I&amp;C</td>
       <td>035510</td>
       <td>1.71</td>
       <td>111.07</td>
+      <td>596</td>
+      <td>229</td>
       <td>412.5</td>
     </tr>
     <tr>
-      <th>369</th>
+      <th>270</th>
       <td>유진투자증권</td>
       <td>001200</td>
       <td>0.55</td>
       <td>7.94</td>
+      <td>141</td>
+      <td>684</td>
       <td>412.5</td>
     </tr>
     <tr>
-      <th>370</th>
+      <th>271</th>
       <td>동부건설</td>
       <td>005960</td>
       <td>1.05</td>
       <td>2.75</td>
+      <td>421</td>
+      <td>404</td>
       <td>412.5</td>
     </tr>
     <tr>
-      <th>372</th>
+      <th>272</th>
       <td>미래에셋생명</td>
       <td>085620</td>
       <td>0.48</td>
       <td>8.63</td>
+      <td>115</td>
+      <td>712</td>
       <td>413.5</td>
     </tr>
     <tr>
-      <th>373</th>
+      <th>273</th>
       <td>신화실업</td>
       <td>001770</td>
       <td>0.72</td>
       <td>49.47</td>
+      <td>256</td>
+      <td>572</td>
       <td>414.0</td>
     </tr>
     <tr>
-      <th>374</th>
+      <th>274</th>
       <td>화승인더</td>
       <td>006060</td>
       <td>2.05</td>
       <td>10.57</td>
+      <td>639</td>
+      <td>189</td>
       <td>414.0</td>
     </tr>
     <tr>
-      <th>375</th>
+      <th>275</th>
       <td>NICE</td>
       <td>034310</td>
       <td>1.48</td>
       <td>13.51</td>
+      <td>545</td>
+      <td>286</td>
       <td>415.5</td>
     </tr>
     <tr>
-      <th>376</th>
+      <th>276</th>
       <td>현대EP</td>
       <td>089470</td>
       <td>0.81</td>
       <td>4.22</td>
+      <td>298</td>
+      <td>533</td>
       <td>415.5</td>
     </tr>
     <tr>
-      <th>377</th>
+      <th>277</th>
       <td>아세아</td>
       <td>002030</td>
       <td>0.51</td>
       <td>8.22</td>
+      <td>129</td>
+      <td>703</td>
       <td>416.0</td>
     </tr>
     <tr>
-      <th>378</th>
+      <th>278</th>
       <td>다스코</td>
       <td>058730</td>
       <td>1.61</td>
       <td>12.59</td>
+      <td>576</td>
+      <td>256</td>
       <td>416.0</td>
     </tr>
     <tr>
-      <th>379</th>
+      <th>279</th>
       <td>현대약품</td>
       <td>004310</td>
       <td>1.75</td>
       <td>119.61</td>
+      <td>599</td>
+      <td>233</td>
       <td>416.0</td>
     </tr>
     <tr>
-      <th>381</th>
+      <th>280</th>
       <td>디티알오토모티브</td>
       <td>007340</td>
       <td>0.70</td>
       <td>5.90</td>
+      <td>244</td>
+      <td>589</td>
       <td>416.5</td>
     </tr>
     <tr>
-      <th>383</th>
+      <th>281</th>
       <td>대교</td>
       <td>019680</td>
       <td>1.25</td>
       <td>16.61</td>
+      <td>487</td>
+      <td>349</td>
       <td>418.0</td>
     </tr>
     <tr>
-      <th>386</th>
+      <th>282</th>
       <td>대원강업</td>
       <td>000430</td>
       <td>0.60</td>
       <td>7.04</td>
+      <td>182</td>
+      <td>655</td>
       <td>418.5</td>
     </tr>
     <tr>
-      <th>387</th>
+      <th>283</th>
       <td>금호에이치티</td>
       <td>214330</td>
       <td>0.67</td>
       <td>6.12</td>
+      <td>223</td>
+      <td>614</td>
       <td>418.5</td>
     </tr>
     <tr>
-      <th>388</th>
+      <th>284</th>
       <td>사조대림</td>
       <td>003960</td>
       <td>0.95</td>
       <td>25.37</td>
+      <td>374</td>
+      <td>464</td>
       <td>419.0</td>
     </tr>
     <tr>
-      <th>389</th>
+      <th>285</th>
       <td>디아이</td>
       <td>003160</td>
       <td>1.38</td>
       <td>140.00</td>
+      <td>520</td>
+      <td>320</td>
       <td>420.0</td>
     </tr>
     <tr>
-      <th>391</th>
+      <th>286</th>
       <td>AK홀딩스</td>
       <td>006840</td>
       <td>1.56</td>
       <td>13.07</td>
+      <td>566</td>
+      <td>275</td>
       <td>420.5</td>
     </tr>
     <tr>
-      <th>390</th>
+      <th>287</th>
       <td>한라홀딩스</td>
       <td>060980</td>
       <td>0.60</td>
       <td>7.25</td>
+      <td>177</td>
+      <td>664</td>
       <td>420.5</td>
     </tr>
     <tr>
-      <th>392</th>
+      <th>288</th>
       <td>신풍제지</td>
       <td>002870</td>
       <td>0.98</td>
       <td>24.27</td>
+      <td>388</td>
+      <td>454</td>
       <td>421.0</td>
     </tr>
     <tr>
-      <th>393</th>
+      <th>289</th>
       <td>유니온머티리얼</td>
       <td>047400</td>
       <td>1.20</td>
       <td>17.83</td>
+      <td>476</td>
+      <td>366</td>
       <td>421.0</td>
     </tr>
     <tr>
-      <th>395</th>
+      <th>290</th>
       <td>그린케미칼</td>
       <td>083420</td>
       <td>0.86</td>
       <td>34.38</td>
+      <td>326</td>
+      <td>517</td>
       <td>421.5</td>
     </tr>
     <tr>
-      <th>396</th>
+      <th>291</th>
       <td>해태제과식품</td>
       <td>101530</td>
       <td>1.61</td>
       <td>12.93</td>
+      <td>575</td>
+      <td>269</td>
       <td>422.0</td>
     </tr>
     <tr>
-      <th>397</th>
+      <th>292</th>
       <td>대한제강</td>
       <td>084010</td>
       <td>0.66</td>
       <td>6.69</td>
+      <td>218</td>
+      <td>629</td>
       <td>423.5</td>
     </tr>
     <tr>
-      <th>400</th>
+      <th>293</th>
       <td>포스코대우</td>
       <td>047050</td>
       <td>1.02</td>
       <td>23.08</td>
+      <td>405</td>
+      <td>444</td>
       <td>424.5</td>
     </tr>
     <tr>
-      <th>402</th>
+      <th>294</th>
       <td>태광산업</td>
       <td>003240</td>
       <td>0.57</td>
       <td>76.41</td>
+      <td>159</td>
+      <td>692</td>
       <td>425.5</td>
     </tr>
     <tr>
-      <th>403</th>
+      <th>295</th>
       <td>CS홀딩스</td>
       <td>000590</td>
       <td>0.43</td>
       <td>9.88</td>
+      <td>88</td>
+      <td>766</td>
       <td>427.0</td>
     </tr>
     <tr>
-      <th>406</th>
+      <th>296</th>
       <td>현대글로비스</td>
       <td>086280</td>
       <td>1.82</td>
       <td>12.50</td>
+      <td>604</td>
+      <td>252</td>
       <td>428.0</td>
     </tr>
     <tr>
-      <th>404</th>
+      <th>297</th>
       <td>우리종금</td>
       <td>010050</td>
       <td>1.73</td>
       <td>12.71</td>
+      <td>597</td>
+      <td>259</td>
       <td>428.0</td>
     </tr>
     <tr>
-      <th>405</th>
+      <th>298</th>
       <td>동원산업</td>
       <td>006040</td>
       <td>1.43</td>
       <td>15.16</td>
+      <td>533</td>
+      <td>323</td>
       <td>428.0</td>
     </tr>
     <tr>
-      <th>407</th>
+      <th>299</th>
       <td>AJ네트웍스</td>
       <td>095570</td>
       <td>1.06</td>
       <td>22.08</td>
+      <td>423</td>
+      <td>434</td>
       <td>428.5</td>
     </tr>
     <tr>
-      <th>408</th>
+      <th>300</th>
       <td>성창기업지주</td>
       <td>000180</td>
       <td>0.42</td>
       <td>9.97</td>
+      <td>86</td>
+      <td>772</td>
       <td>429.0</td>
     </tr>
     <tr>
-      <th>409</th>
+      <th>301</th>
       <td>삼화콘덴서</td>
       <td>001820</td>
       <td>12.83</td>
       <td>118.86</td>
+      <td>627</td>
+      <td>232</td>
       <td>429.5</td>
     </tr>
     <tr>
-      <th>410</th>
+      <th>302</th>
       <td>KPX홀딩스</td>
       <td>092230</td>
       <td>0.49</td>
       <td>9.17</td>
+      <td>119</td>
+      <td>740</td>
       <td>429.5</td>
     </tr>
     <tr>
-      <th>411</th>
+      <th>303</th>
       <td>삼호</td>
       <td>001880</td>
       <td>0.95</td>
       <td>3.27</td>
+      <td>369</td>
+      <td>490</td>
       <td>429.5</td>
     </tr>
     <tr>
-      <th>413</th>
+      <th>304</th>
       <td>서흥</td>
       <td>008490</td>
       <td>1.52</td>
       <td>14.43</td>
+      <td>555</td>
+      <td>305</td>
       <td>430.0</td>
     </tr>
     <tr>
-      <th>418</th>
+      <th>305</th>
       <td>유안타증권</td>
       <td>003470</td>
       <td>0.94</td>
       <td>30.07</td>
+      <td>365</td>
+      <td>497</td>
       <td>431.0</td>
     </tr>
     <tr>
-      <th>419</th>
+      <th>306</th>
       <td>동아쏘시오홀딩스</td>
       <td>000640</td>
       <td>0.87</td>
       <td>4.30</td>
+      <td>328</td>
+      <td>535</td>
       <td>431.5</td>
     </tr>
     <tr>
-      <th>421</th>
+      <th>307</th>
       <td>제이에스코퍼레이션</td>
       <td>194370</td>
       <td>1.28</td>
       <td>17.97</td>
+      <td>497</td>
+      <td>367</td>
       <td>432.0</td>
     </tr>
     <tr>
-      <th>422</th>
+      <th>308</th>
       <td>대창단조</td>
       <td>015230</td>
       <td>0.65</td>
       <td>7.23</td>
+      <td>205</td>
+      <td>662</td>
       <td>433.5</td>
     </tr>
     <tr>
-      <th>423</th>
+      <th>309</th>
       <td>신세계</td>
       <td>004170</td>
       <td>1.27</td>
       <td>18.08</td>
+      <td>495</td>
+      <td>372</td>
       <td>433.5</td>
     </tr>
     <tr>
-      <th>424</th>
+      <th>310</th>
       <td>MH에탄올</td>
       <td>023150</td>
       <td>0.77</td>
       <td>5.88</td>
+      <td>280</td>
+      <td>587</td>
       <td>433.5</td>
     </tr>
     <tr>
-      <th>426</th>
+      <th>311</th>
       <td>포스코강판</td>
       <td>058430</td>
       <td>0.80</td>
       <td>5.23</td>
+      <td>292</td>
+      <td>578</td>
       <td>435.0</td>
     </tr>
     <tr>
-      <th>427</th>
+      <th>312</th>
       <td>국제약품</td>
       <td>002720</td>
       <td>1.62</td>
       <td>137.95</td>
+      <td>578</td>
+      <td>293</td>
       <td>435.5</td>
     </tr>
     <tr>
-      <th>431</th>
+      <th>313</th>
       <td>코오롱머티리얼</td>
       <td>144620</td>
       <td>0.75</td>
       <td>56.18</td>
+      <td>267</td>
+      <td>606</td>
       <td>436.5</td>
     </tr>
     <tr>
-      <th>433</th>
+      <th>314</th>
       <td>우진플라임</td>
       <td>049800</td>
       <td>0.87</td>
       <td>4.70</td>
+      <td>332</td>
+      <td>541</td>
       <td>436.5</td>
     </tr>
     <tr>
-      <th>430</th>
+      <th>315</th>
       <td>삼익악기</td>
       <td>002450</td>
       <td>0.95</td>
       <td>31.75</td>
+      <td>370</td>
+      <td>503</td>
       <td>436.5</td>
     </tr>
     <tr>
-      <th>435</th>
+      <th>316</th>
       <td>롯데칠성</td>
       <td>005300</td>
       <td>0.95</td>
       <td>32.03</td>
+      <td>371</td>
+      <td>504</td>
       <td>437.5</td>
     </tr>
     <tr>
-      <th>434</th>
+      <th>317</th>
       <td>대한제당</td>
       <td>001790</td>
       <td>0.53</td>
       <td>9.10</td>
+      <td>139</td>
+      <td>736</td>
       <td>437.5</td>
     </tr>
     <tr>
-      <th>436</th>
+      <th>318</th>
       <td>강원랜드</td>
       <td>035250</td>
       <td>1.90</td>
       <td>12.89</td>
+      <td>612</td>
+      <td>266</td>
       <td>439.0</td>
     </tr>
     <tr>
-      <th>437</th>
+      <th>319</th>
       <td>현대제철</td>
       <td>004020</td>
       <td>0.50</td>
       <td>9.69</td>
+      <td>122</td>
+      <td>758</td>
       <td>440.0</td>
     </tr>
     <tr>
-      <th>438</th>
+      <th>320</th>
       <td>텔코웨어</td>
       <td>078000</td>
       <td>1.33</td>
       <td>18.00</td>
+      <td>512</td>
+      <td>369</td>
       <td>440.5</td>
     </tr>
     <tr>
-      <th>441</th>
+      <th>321</th>
       <td>한솔PNS</td>
       <td>010420</td>
       <td>0.85</td>
       <td>44.35</td>
+      <td>323</td>
+      <td>560</td>
       <td>441.5</td>
     </tr>
     <tr>
-      <th>442</th>
+      <th>322</th>
       <td>영풍</td>
       <td>000670</td>
       <td>0.57</td>
       <td>8.94</td>
+      <td>160</td>
+      <td>724</td>
       <td>442.0</td>
     </tr>
     <tr>
-      <th>443</th>
+      <th>323</th>
       <td>팜스코</td>
       <td>036580</td>
       <td>1.50</td>
       <td>15.99</td>
+      <td>549</td>
+      <td>336</td>
       <td>442.5</td>
     </tr>
     <tr>
-      <th>444</th>
+      <th>324</th>
       <td>율촌화학</td>
       <td>008730</td>
       <td>1.28</td>
       <td>19.67</td>
+      <td>496</td>
+      <td>389</td>
       <td>442.5</td>
     </tr>
     <tr>
-      <th>445</th>
+      <th>325</th>
       <td>이수페타시스</td>
       <td>007660</td>
       <td>0.86</td>
       <td>44.35</td>
+      <td>325</td>
+      <td>561</td>
       <td>443.0</td>
     </tr>
     <tr>
-      <th>449</th>
+      <th>326</th>
       <td>알루코</td>
       <td>001780</td>
       <td>1.68</td>
       <td>14.13</td>
+      <td>592</td>
+      <td>296</td>
       <td>444.0</td>
     </tr>
     <tr>
-      <th>448</th>
+      <th>327</th>
       <td>SK증권</td>
       <td>001510</td>
       <td>0.95</td>
       <td>33.75</td>
+      <td>373</td>
+      <td>515</td>
       <td>444.0</td>
     </tr>
     <tr>
-      <th>447</th>
+      <th>328</th>
       <td>진양홀딩스</td>
       <td>100250</td>
       <td>0.53</td>
       <td>9.42</td>
+      <td>135</td>
+      <td>753</td>
       <td>444.0</td>
     </tr>
     <tr>
-      <th>452</th>
+      <th>329</th>
       <td>한국특수형강</td>
       <td>007280</td>
       <td>1.55</td>
       <td>15.62</td>
+      <td>564</td>
+      <td>328</td>
       <td>446.0</td>
     </tr>
     <tr>
-      <th>454</th>
+      <th>330</th>
       <td>남성</td>
       <td>004270</td>
       <td>0.99</td>
       <td>32.14</td>
+      <td>391</td>
+      <td>505</td>
       <td>448.0</td>
     </tr>
     <tr>
-      <th>456</th>
+      <th>331</th>
       <td>현대비앤지스틸</td>
       <td>004560</td>
       <td>0.57</td>
       <td>9.03</td>
+      <td>163</td>
+      <td>734</td>
       <td>448.5</td>
     </tr>
     <tr>
-      <th>457</th>
+      <th>332</th>
       <td>티에이치엔</td>
       <td>019180</td>
       <td>1.26</td>
       <td>2.84</td>
+      <td>494</td>
+      <td>405</td>
       <td>449.5</td>
     </tr>
     <tr>
-      <th>459</th>
+      <th>333</th>
       <td>한신기계</td>
       <td>011700</td>
       <td>1.47</td>
       <td>16.99</td>
+      <td>544</td>
+      <td>355</td>
       <td>449.5</td>
     </tr>
     <tr>
-      <th>458</th>
+      <th>334</th>
       <td>유유제약</td>
       <td>000220</td>
       <td>1.53</td>
       <td>16.01</td>
+      <td>558</td>
+      <td>341</td>
       <td>449.5</td>
     </tr>
     <tr>
-      <th>462</th>
+      <th>335</th>
       <td>용평리조트</td>
       <td>070960</td>
       <td>1.06</td>
       <td>27.07</td>
+      <td>425</td>
+      <td>474</td>
       <td>449.5</td>
     </tr>
     <tr>
-      <th>460</th>
+      <th>336</th>
       <td>쌍용양회</td>
       <td>003410</td>
       <td>1.65</td>
       <td>14.76</td>
+      <td>586</td>
+      <td>313</td>
       <td>449.5</td>
     </tr>
     <tr>
-      <th>464</th>
+      <th>337</th>
       <td>아시아나항공</td>
       <td>020560</td>
       <td>1.22</td>
       <td>21.12</td>
+      <td>481</td>
+      <td>423</td>
       <td>452.0</td>
     </tr>
     <tr>
-      <th>465</th>
+      <th>338</th>
       <td>대한해운</td>
       <td>005880</td>
       <td>1.16</td>
       <td>23.52</td>
+      <td>458</td>
+      <td>446</td>
       <td>452.0</td>
     </tr>
     <tr>
-      <th>466</th>
+      <th>339</th>
       <td>금비</td>
       <td>008870</td>
       <td>0.79</td>
       <td>6.15</td>
+      <td>288</td>
+      <td>616</td>
       <td>452.0</td>
     </tr>
     <tr>
-      <th>467</th>
+      <th>340</th>
       <td>에이블씨엔씨</td>
       <td>078520</td>
       <td>1.53</td>
       <td>16.54</td>
+      <td>556</td>
+      <td>348</td>
       <td>452.0</td>
     </tr>
     <tr>
-      <th>470</th>
+      <th>341</th>
       <td>CJ제일제당</td>
       <td>097950</td>
       <td>1.46</td>
       <td>17.57</td>
+      <td>542</td>
+      <td>363</td>
       <td>452.5</td>
     </tr>
     <tr>
-      <th>471</th>
+      <th>342</th>
       <td>한화손해보험</td>
       <td>000370</td>
       <td>0.79</td>
       <td>6.24</td>
+      <td>287</td>
+      <td>619</td>
       <td>453.0</td>
     </tr>
     <tr>
-      <th>472</th>
+      <th>343</th>
       <td>빙그레</td>
       <td>005180</td>
       <td>1.26</td>
       <td>20.47</td>
+      <td>493</td>
+      <td>414</td>
       <td>453.5</td>
     </tr>
     <tr>
-      <th>474</th>
+      <th>344</th>
       <td>코오롱플라스틱</td>
       <td>138490</td>
       <td>1.69</td>
       <td>14.79</td>
+      <td>594</td>
+      <td>315</td>
       <td>454.5</td>
     </tr>
     <tr>
-      <th>475</th>
+      <th>345</th>
       <td>현대미포조선</td>
       <td>010620</td>
       <td>0.84</td>
       <td>51.61</td>
+      <td>314</td>
+      <td>598</td>
       <td>456.0</td>
     </tr>
     <tr>
-      <th>476</th>
+      <th>346</th>
       <td>SKC</td>
       <td>011790</td>
       <td>1.02</td>
       <td>32.79</td>
+      <td>404</td>
+      <td>508</td>
       <td>456.0</td>
     </tr>
     <tr>
-      <th>477</th>
+      <th>347</th>
       <td>현대차</td>
       <td>005380</td>
       <td>0.68</td>
       <td>7.95</td>
+      <td>229</td>
+      <td>685</td>
       <td>457.0</td>
     </tr>
     <tr>
-      <th>478</th>
+      <th>348</th>
       <td>주연테크</td>
       <td>044380</td>
       <td>1.05</td>
       <td>30.82</td>
+      <td>416</td>
+      <td>500</td>
       <td>458.0</td>
     </tr>
     <tr>
-      <th>479</th>
+      <th>349</th>
       <td>테이팩스</td>
       <td>055490</td>
       <td>13.06</td>
       <td>13.69</td>
+      <td>628</td>
+      <td>288</td>
       <td>458.0</td>
     </tr>
     <tr>
-      <th>480</th>
+      <th>350</th>
       <td>진양산업</td>
       <td>003780</td>
       <td>1.10</td>
       <td>28.98</td>
+      <td>433</td>
+      <td>484</td>
       <td>458.5</td>
     </tr>
     <tr>
-      <th>481</th>
+      <th>351</th>
       <td>카카오</td>
       <td>035720</td>
       <td>2.18</td>
       <td>126.57</td>
+      <td>648</td>
+      <td>273</td>
       <td>460.5</td>
     </tr>
     <tr>
-      <th>482</th>
+      <th>352</th>
       <td>지엠비코리아</td>
       <td>013870</td>
       <td>0.70</td>
       <td>7.92</td>
+      <td>240</td>
+      <td>683</td>
       <td>461.5</td>
     </tr>
     <tr>
-      <th>483</th>
+      <th>353</th>
       <td>부산가스</td>
       <td>015350</td>
       <td>0.73</td>
       <td>7.25</td>
+      <td>261</td>
+      <td>663</td>
       <td>462.0</td>
     </tr>
     <tr>
-      <th>484</th>
+      <th>354</th>
       <td>신라교역</td>
       <td>004970</td>
       <td>0.58</td>
       <td>9.64</td>
+      <td>168</td>
+      <td>757</td>
       <td>462.5</td>
     </tr>
     <tr>
-      <th>485</th>
+      <th>355</th>
       <td>덕성</td>
       <td>004830</td>
       <td>1.19</td>
       <td>24.36</td>
+      <td>469</td>
+      <td>456</td>
       <td>462.5</td>
     </tr>
     <tr>
-      <th>486</th>
+      <th>356</th>
       <td>현대백화점</td>
       <td>069960</td>
       <td>0.66</td>
       <td>8.55</td>
+      <td>216</td>
+      <td>711</td>
       <td>463.5</td>
     </tr>
     <tr>
-      <th>487</th>
+      <th>357</th>
       <td>아주캐피탈</td>
       <td>033660</td>
       <td>0.61</td>
       <td>9.11</td>
+      <td>190</td>
+      <td>738</td>
       <td>464.0</td>
     </tr>
     <tr>
-      <th>488</th>
+      <th>358</th>
       <td>해성디에스</td>
       <td>195870</td>
       <td>1.86</td>
       <td>14.98</td>
+      <td>609</td>
+      <td>319</td>
       <td>464.0</td>
     </tr>
     <tr>
-      <th>489</th>
+      <th>359</th>
       <td>한화</td>
       <td>000880</td>
       <td>0.89</td>
       <td>5.83</td>
+      <td>348</td>
+      <td>585</td>
       <td>466.5</td>
     </tr>
     <tr>
-      <th>490</th>
+      <th>360</th>
       <td>광주신세계</td>
       <td>037710</td>
       <td>0.69</td>
       <td>8.04</td>
+      <td>237</td>
+      <td>698</td>
       <td>467.5</td>
     </tr>
     <tr>
-      <th>491</th>
+      <th>361</th>
       <td>CJ</td>
       <td>001040</td>
       <td>1.37</td>
       <td>20.73</td>
+      <td>518</td>
+      <td>420</td>
       <td>469.0</td>
     </tr>
     <tr>
-      <th>492</th>
+      <th>362</th>
       <td>동원F&amp;B</td>
       <td>049770</td>
       <td>1.64</td>
       <td>17.16</td>
+      <td>583</td>
+      <td>359</td>
       <td>471.0</td>
     </tr>
     <tr>
-      <th>494</th>
+      <th>363</th>
       <td>에이엔피</td>
       <td>015260</td>
       <td>0.69</td>
       <td>8.39</td>
+      <td>236</td>
+      <td>707</td>
       <td>471.5</td>
     </tr>
     <tr>
-      <th>493</th>
+      <th>364</th>
       <td>팬오션</td>
       <td>028670</td>
       <td>1.16</td>
       <td>29.89</td>
+      <td>456</td>
+      <td>487</td>
       <td>471.5</td>
     </tr>
     <tr>
-      <th>496</th>
+      <th>365</th>
       <td>NPC</td>
       <td>004250</td>
       <td>0.93</td>
       <td>5.61</td>
+      <td>363</td>
+      <td>581</td>
       <td>472.0</td>
     </tr>
     <tr>
-      <th>495</th>
+      <th>366</th>
       <td>KT</td>
       <td>030200</td>
       <td>0.62</td>
       <td>9.38</td>
+      <td>193</td>
+      <td>751</td>
       <td>472.0</td>
     </tr>
     <tr>
-      <th>497</th>
+      <th>367</th>
       <td>유한양행</td>
       <td>000100</td>
       <td>1.90</td>
       <td>15.89</td>
+      <td>611</td>
+      <td>334</td>
       <td>472.5</td>
     </tr>
     <tr>
-      <th>498</th>
+      <th>368</th>
       <td>쿠쿠홀딩스</td>
       <td>192400</td>
       <td>2.30</td>
       <td>13.36</td>
+      <td>661</td>
+      <td>284</td>
       <td>472.5</td>
     </tr>
     <tr>
-      <th>499</th>
+      <th>369</th>
       <td>LS전선아시아</td>
       <td>229640</td>
       <td>1.76</td>
       <td>16.22</td>
+      <td>601</td>
+      <td>344</td>
       <td>472.5</td>
     </tr>
     <tr>
-      <th>500</th>
+      <th>370</th>
       <td>계룡건설</td>
       <td>013580</td>
       <td>0.60</td>
       <td>9.94</td>
+      <td>176</td>
+      <td>770</td>
       <td>473.0</td>
     </tr>
     <tr>
-      <th>501</th>
+      <th>371</th>
       <td>에스엘</td>
       <td>005850</td>
       <td>0.84</td>
       <td>6.90</td>
+      <td>312</td>
+      <td>635</td>
       <td>473.5</td>
     </tr>
     <tr>
-      <th>503</th>
+      <th>372</th>
       <td>한국석유</td>
       <td>004090</td>
       <td>0.71</td>
       <td>8.17</td>
+      <td>247</td>
+      <td>701</td>
       <td>474.0</td>
     </tr>
     <tr>
-      <th>502</th>
+      <th>373</th>
       <td>삼성엔지니어링</td>
       <td>028050</td>
       <td>3.48</td>
       <td>119.67</td>
+      <td>714</td>
+      <td>234</td>
       <td>474.0</td>
     </tr>
     <tr>
-      <th>506</th>
+      <th>374</th>
       <td>키움증권</td>
       <td>039490</td>
       <td>2.11</td>
       <td>14.55</td>
+      <td>643</td>
+      <td>310</td>
       <td>476.5</td>
     </tr>
     <tr>
-      <th>504</th>
+      <th>375</th>
       <td>KPX케미칼</td>
       <td>025000</td>
       <td>0.69</td>
       <td>8.86</td>
+      <td>231</td>
+      <td>722</td>
       <td>476.5</td>
     </tr>
     <tr>
-      <th>505</th>
+      <th>376</th>
       <td>LG디스플레이</td>
       <td>034220</td>
       <td>0.65</td>
       <td>9.25</td>
+      <td>208</td>
+      <td>745</td>
       <td>476.5</td>
     </tr>
     <tr>
-      <th>509</th>
+      <th>377</th>
       <td>한솔제지</td>
       <td>213500</td>
       <td>0.80</td>
       <td>7.26</td>
+      <td>291</td>
+      <td>665</td>
       <td>478.0</td>
     </tr>
     <tr>
-      <th>507</th>
+      <th>378</th>
       <td>신세계건설</td>
       <td>034300</td>
       <td>1.16</td>
       <td>3.92</td>
+      <td>462</td>
+      <td>494</td>
       <td>478.0</td>
     </tr>
     <tr>
-      <th>508</th>
+      <th>379</th>
       <td>코리안리</td>
       <td>003690</td>
       <td>0.67</td>
       <td>9.05</td>
+      <td>221</td>
+      <td>735</td>
       <td>478.0</td>
     </tr>
     <tr>
-      <th>510</th>
+      <th>380</th>
       <td>부국증권</td>
       <td>001270</td>
       <td>0.71</td>
       <td>8.65</td>
+      <td>246</td>
+      <td>713</td>
       <td>479.5</td>
     </tr>
     <tr>
-      <th>511</th>
+      <th>381</th>
       <td>송원산업</td>
       <td>004430</td>
       <td>1.95</td>
       <td>16.07</td>
+      <td>619</td>
+      <td>342</td>
       <td>480.5</td>
     </tr>
     <tr>
-      <th>512</th>
+      <th>382</th>
       <td>신한지주</td>
       <td>055550</td>
       <td>0.73</td>
       <td>8.31</td>
+      <td>259</td>
+      <td>704</td>
       <td>481.5</td>
     </tr>
     <tr>
-      <th>513</th>
+      <th>383</th>
       <td>케이티스</td>
       <td>058860</td>
       <td>0.64</td>
       <td>9.78</td>
+      <td>202</td>
+      <td>762</td>
       <td>482.0</td>
     </tr>
     <tr>
-      <th>514</th>
+      <th>384</th>
       <td>GS</td>
       <td>078930</td>
       <td>0.83</td>
       <td>7.20</td>
+      <td>306</td>
+      <td>661</td>
       <td>483.5</td>
     </tr>
     <tr>
-      <th>515</th>
+      <th>385</th>
       <td>까뮤이앤씨</td>
       <td>013700</td>
       <td>1.43</td>
       <td>22.22</td>
+      <td>532</td>
+      <td>436</td>
       <td>484.0</td>
     </tr>
     <tr>
-      <th>516</th>
+      <th>386</th>
       <td>신대양제지</td>
       <td>016590</td>
       <td>1.40</td>
       <td>22.67</td>
+      <td>527</td>
+      <td>441</td>
       <td>484.0</td>
     </tr>
     <tr>
-      <th>517</th>
+      <th>387</th>
       <td>코오롱</td>
       <td>002020</td>
       <td>1.14</td>
       <td>33.42</td>
+      <td>455</td>
+      <td>513</td>
       <td>484.0</td>
     </tr>
     <tr>
-      <th>518</th>
+      <th>388</th>
       <td>한국금융지주</td>
       <td>071050</td>
       <td>1.66</td>
       <td>19.04</td>
+      <td>588</td>
+      <td>382</td>
       <td>485.0</td>
     </tr>
     <tr>
-      <th>520</th>
+      <th>389</th>
       <td>일성신약</td>
       <td>003120</td>
       <td>0.96</td>
       <td>51.22</td>
+      <td>376</td>
+      <td>595</td>
       <td>485.5</td>
     </tr>
     <tr>
-      <th>519</th>
+      <th>390</th>
       <td>삼성물산</td>
       <td>028260</td>
       <td>1.46</td>
       <td>215.38</td>
+      <td>538</td>
+      <td>433</td>
       <td>485.5</td>
     </tr>
     <tr>
-      <th>521</th>
+      <th>391</th>
       <td>한화케미칼</td>
       <td>009830</td>
       <td>0.91</td>
       <td>6.29</td>
+      <td>353</td>
+      <td>621</td>
       <td>487.0</td>
     </tr>
     <tr>
-      <th>522</th>
+      <th>392</th>
       <td>두산인프라코어</td>
       <td>042670</td>
       <td>1.03</td>
       <td>47.90</td>
+      <td>407</td>
+      <td>568</td>
       <td>487.5</td>
     </tr>
     <tr>
-      <th>523</th>
+      <th>393</th>
       <td>삼원강재</td>
       <td>023000</td>
       <td>0.69</td>
       <td>9.25</td>
+      <td>232</td>
+      <td>744</td>
       <td>488.0</td>
     </tr>
     <tr>
-      <th>524</th>
+      <th>394</th>
       <td>한솔케미칼</td>
       <td>014680</td>
       <td>2.83</td>
       <td>14.04</td>
+      <td>683</td>
+      <td>295</td>
       <td>489.0</td>
     </tr>
     <tr>
-      <th>525</th>
+      <th>395</th>
       <td>아이에스동서</td>
       <td>010780</td>
       <td>1.12</td>
       <td>4.46</td>
+      <td>444</td>
+      <td>537</td>
       <td>490.5</td>
     </tr>
     <tr>
-      <th>526</th>
+      <th>396</th>
       <td>광전자</td>
       <td>017900</td>
       <td>0.81</td>
       <td>75.00</td>
+      <td>294</td>
+      <td>690</td>
       <td>492.0</td>
     </tr>
     <tr>
-      <th>527</th>
+      <th>397</th>
       <td>화승엔터프라이즈</td>
       <td>241590</td>
       <td>3.04</td>
       <td>13.91</td>
+      <td>694</td>
+      <td>292</td>
       <td>493.0</td>
     </tr>
     <tr>
-      <th>528</th>
+      <th>398</th>
       <td>동원수산</td>
       <td>030720</td>
       <td>1.09</td>
       <td>42.45</td>
+      <td>431</td>
+      <td>556</td>
       <td>493.5</td>
     </tr>
     <tr>
-      <th>530</th>
+      <th>399</th>
       <td>동성화학</td>
       <td>005190</td>
       <td>0.92</td>
       <td>6.84</td>
+      <td>355</td>
+      <td>633</td>
       <td>494.0</td>
     </tr>
     <tr>
-      <th>529</th>
+      <th>400</th>
       <td>CJ씨푸드</td>
       <td>011150</td>
       <td>1.84</td>
       <td>18.93</td>
+      <td>608</td>
+      <td>380</td>
       <td>494.0</td>
     </tr>
     <tr>
-      <th>531</th>
+      <th>401</th>
       <td>진도</td>
       <td>088790</td>
       <td>0.76</td>
       <td>8.74</td>
+      <td>273</td>
+      <td>716</td>
       <td>494.5</td>
     </tr>
     <tr>
-      <th>532</th>
+      <th>402</th>
       <td>한창제지</td>
       <td>009460</td>
       <td>1.16</td>
       <td>4.21</td>
+      <td>461</td>
+      <td>532</td>
       <td>496.5</td>
     </tr>
     <tr>
-      <th>533</th>
+      <th>403</th>
       <td>참엔지니어링</td>
       <td>009310</td>
       <td>2.44</td>
       <td>15.70</td>
+      <td>665</td>
+      <td>329</td>
       <td>497.0</td>
     </tr>
     <tr>
-      <th>534</th>
+      <th>404</th>
       <td>디씨엠</td>
       <td>024090</td>
       <td>0.97</td>
       <td>6.13</td>
+      <td>380</td>
+      <td>615</td>
       <td>497.5</td>
     </tr>
     <tr>
-      <th>535</th>
+      <th>405</th>
       <td>SK</td>
       <td>034730</td>
       <td>1.59</td>
       <td>21.50</td>
+      <td>572</td>
+      <td>424</td>
       <td>498.0</td>
     </tr>
     <tr>
-      <th>538</th>
+      <th>406</th>
       <td>일양약품</td>
       <td>007570</td>
       <td>4.00</td>
       <td>126.15</td>
+      <td>727</td>
+      <td>272</td>
       <td>499.5</td>
     </tr>
     <tr>
-      <th>536</th>
+      <th>407</th>
       <td>셀트리온</td>
       <td>068270</td>
       <td>16.46</td>
       <td>179.95</td>
+      <td>631</td>
+      <td>368</td>
       <td>499.5</td>
     </tr>
     <tr>
-      <th>537</th>
+      <th>408</th>
       <td>동아지질</td>
       <td>028100</td>
       <td>1.61</td>
       <td>20.80</td>
+      <td>577</td>
+      <td>422</td>
       <td>499.5</td>
     </tr>
     <tr>
-      <th>540</th>
+      <th>409</th>
       <td>현대모비스</td>
       <td>012330</td>
       <td>0.85</td>
       <td>7.73</td>
+      <td>322</td>
+      <td>679</td>
       <td>500.5</td>
     </tr>
     <tr>
-      <th>539</th>
+      <th>410</th>
       <td>크라운해태홀딩스</td>
       <td>005740</td>
       <td>0.89</td>
       <td>7.09</td>
+      <td>342</td>
+      <td>659</td>
       <td>500.5</td>
     </tr>
     <tr>
-      <th>542</th>
+      <th>411</th>
       <td>코스맥스비티아이</td>
       <td>044820</td>
       <td>1.42</td>
       <td>26.73</td>
+      <td>530</td>
+      <td>473</td>
       <td>501.5</td>
     </tr>
     <tr>
-      <th>541</th>
+      <th>412</th>
       <td>티웨이홀딩스</td>
       <td>004870</td>
       <td>8.19</td>
       <td>116.86</td>
+      <td>773</td>
+      <td>230</td>
       <td>501.5</td>
     </tr>
     <tr>
-      <th>543</th>
+      <th>413</th>
       <td>하이트진로</td>
       <td>000080</td>
       <td>1.20</td>
       <td>39.56</td>
+      <td>475</td>
+      <td>529</td>
       <td>502.0</td>
     </tr>
     <tr>
-      <th>544</th>
+      <th>414</th>
       <td>대양금속</td>
       <td>009190</td>
       <td>6.34</td>
       <td>12.26</td>
+      <td>759</td>
+      <td>247</td>
       <td>503.0</td>
     </tr>
     <tr>
-      <th>545</th>
+      <th>415</th>
       <td>CJ CGV</td>
       <td>079160</td>
       <td>4.21</td>
       <td>127.44</td>
+      <td>734</td>
+      <td>274</td>
       <td>504.0</td>
     </tr>
     <tr>
-      <th>546</th>
+      <th>416</th>
       <td>한국단자</td>
       <td>025540</td>
       <td>0.86</td>
       <td>7.84</td>
+      <td>327</td>
+      <td>682</td>
       <td>504.5</td>
     </tr>
     <tr>
-      <th>547</th>
+      <th>417</th>
       <td>삼성전자</td>
       <td>005930</td>
       <td>2.29</td>
       <td>16.78</td>
+      <td>659</td>
+      <td>352</td>
       <td>505.5</td>
     </tr>
     <tr>
-      <th>548</th>
+      <th>418</th>
       <td>수산중공업</td>
       <td>017550</td>
       <td>1.22</td>
       <td>39.62</td>
+      <td>482</td>
+      <td>530</td>
       <td>506.0</td>
     </tr>
     <tr>
-      <th>550</th>
+      <th>419</th>
       <td>혜인</td>
       <td>003010</td>
       <td>0.85</td>
       <td>79.88</td>
+      <td>317</td>
+      <td>697</td>
       <td>507.0</td>
     </tr>
     <tr>
-      <th>549</th>
+      <th>420</th>
       <td>태경산업</td>
       <td>015890</td>
       <td>0.94</td>
       <td>67.38</td>
+      <td>366</td>
+      <td>648</td>
       <td>507.0</td>
     </tr>
     <tr>
-      <th>551</th>
+      <th>421</th>
       <td>풍산</td>
       <td>103140</td>
       <td>0.87</td>
       <td>7.77</td>
+      <td>334</td>
+      <td>681</td>
       <td>507.5</td>
     </tr>
     <tr>
-      <th>552</th>
+      <th>422</th>
       <td>환인제약</td>
       <td>016580</td>
       <td>1.83</td>
       <td>20.16</td>
+      <td>606</td>
+      <td>409</td>
       <td>507.5</td>
     </tr>
     <tr>
-      <th>553</th>
+      <th>423</th>
       <td>GKL</td>
       <td>114090</td>
       <td>3.26</td>
       <td>14.76</td>
+      <td>705</td>
+      <td>312</td>
       <td>508.5</td>
     </tr>
     <tr>
-      <th>554</th>
+      <th>424</th>
       <td>SK디앤디</td>
       <td>210980</td>
       <td>2.27</td>
       <td>17.56</td>
+      <td>656</td>
+      <td>362</td>
       <td>509.0</td>
     </tr>
     <tr>
-      <th>555</th>
+      <th>425</th>
       <td>한세실업</td>
       <td>105630</td>
       <td>2.01</td>
       <td>19.23</td>
+      <td>635</td>
+      <td>384</td>
       <td>509.5</td>
     </tr>
     <tr>
-      <th>556</th>
+      <th>426</th>
       <td>한국항공우주</td>
       <td>047810</td>
       <td>2.99</td>
       <td>15.70</td>
+      <td>690</td>
+      <td>330</td>
       <td>510.0</td>
     </tr>
     <tr>
-      <th>557</th>
+      <th>427</th>
       <td>LG전자</td>
       <td>066570</td>
       <td>1.54</td>
       <td>241.71</td>
+      <td>560</td>
+      <td>460</td>
       <td>510.0</td>
     </tr>
     <tr>
-      <th>559</th>
+      <th>428</th>
       <td>영보화학</td>
       <td>014440</td>
       <td>0.84</td>
       <td>8.51</td>
+      <td>313</td>
+      <td>709</td>
       <td>511.0</td>
     </tr>
     <tr>
-      <th>558</th>
+      <th>429</th>
       <td>서원</td>
       <td>021050</td>
       <td>0.73</td>
       <td>9.82</td>
+      <td>258</td>
+      <td>764</td>
       <td>511.0</td>
     </tr>
     <tr>
-      <th>560</th>
+      <th>430</th>
       <td>DSR</td>
       <td>155660</td>
       <td>0.76</td>
       <td>9.30</td>
+      <td>277</td>
+      <td>746</td>
       <td>511.5</td>
     </tr>
     <tr>
-      <th>561</th>
+      <th>431</th>
       <td>KG케미칼</td>
       <td>001390</td>
       <td>1.59</td>
       <td>24.26</td>
+      <td>571</td>
+      <td>453</td>
       <td>512.0</td>
     </tr>
     <tr>
-      <th>562</th>
+      <th>432</th>
       <td>대창</td>
       <td>012800</td>
       <td>0.73</td>
       <td>9.83</td>
+      <td>262</td>
+      <td>765</td>
       <td>513.5</td>
     </tr>
     <tr>
-      <th>563</th>
+      <th>433</th>
       <td>AJ렌터카</td>
       <td>068400</td>
       <td>1.29</td>
       <td>37.43</td>
+      <td>504</td>
+      <td>524</td>
       <td>514.0</td>
     </tr>
     <tr>
-      <th>564</th>
+      <th>434</th>
       <td>나노메딕스</td>
       <td>074610</td>
       <td>23.80</td>
       <td>150.40</td>
+      <td>692</td>
+      <td>337</td>
       <td>514.5</td>
     </tr>
     <tr>
-      <th>565</th>
+      <th>435</th>
       <td>LG화학</td>
       <td>051910</td>
       <td>1.91</td>
       <td>20.67</td>
+      <td>613</td>
+      <td>417</td>
       <td>515.0</td>
     </tr>
     <tr>
-      <th>566</th>
+      <th>436</th>
       <td>유니퀘스트</td>
       <td>077500</td>
       <td>1.18</td>
       <td>48.52</td>
+      <td>467</td>
+      <td>569</td>
       <td>518.0</td>
     </tr>
     <tr>
-      <th>567</th>
+      <th>437</th>
       <td>황금에스티</td>
       <td>032560</td>
       <td>0.87</td>
       <td>8.31</td>
+      <td>331</td>
+      <td>706</td>
       <td>518.5</td>
     </tr>
     <tr>
-      <th>568</th>
+      <th>438</th>
       <td>대원제약</td>
       <td>003220</td>
       <td>2.36</td>
       <td>18.60</td>
+      <td>663</td>
+      <td>376</td>
       <td>519.5</td>
     </tr>
     <tr>
-      <th>569</th>
+      <th>439</th>
       <td>도화엔지니어링</td>
       <td>002150</td>
       <td>1.54</td>
       <td>271.05</td>
+      <td>561</td>
+      <td>479</td>
       <td>520.0</td>
     </tr>
     <tr>
-      <th>570</th>
+      <th>440</th>
       <td>영원무역홀딩스</td>
       <td>009970</td>
       <td>0.85</td>
       <td>8.97</td>
+      <td>318</td>
+      <td>725</td>
       <td>521.5</td>
     </tr>
     <tr>
-      <th>571</th>
+      <th>441</th>
       <td>경인양행</td>
       <td>012610</td>
       <td>1.21</td>
       <td>44.57</td>
+      <td>480</td>
+      <td>563</td>
       <td>521.5</td>
     </tr>
     <tr>
-      <th>572</th>
+      <th>442</th>
       <td>대영포장</td>
       <td>014160</td>
       <td>0.77</td>
       <td>9.80</td>
+      <td>281</td>
+      <td>763</td>
       <td>522.0</td>
     </tr>
     <tr>
-      <th>573</th>
+      <th>443</th>
       <td>남선알미늄</td>
       <td>008350</td>
       <td>1.06</td>
       <td>6.38</td>
+      <td>426</td>
+      <td>623</td>
       <td>524.5</td>
     </tr>
     <tr>
-      <th>574</th>
+      <th>444</th>
       <td>이노션</td>
       <td>214320</td>
       <td>2.03</td>
       <td>20.32</td>
+      <td>638</td>
+      <td>412</td>
       <td>525.0</td>
     </tr>
     <tr>
-      <th>575</th>
+      <th>445</th>
       <td>진에어</td>
       <td>272450</td>
       <td>11.04</td>
       <td>21.86</td>
+      <td>624</td>
+      <td>428</td>
       <td>526.0</td>
     </tr>
     <tr>
-      <th>576</th>
+      <th>446</th>
       <td>문배철강</td>
       <td>008420</td>
       <td>0.84</td>
       <td>9.19</td>
+      <td>315</td>
+      <td>741</td>
       <td>528.0</td>
     </tr>
     <tr>
-      <th>577</th>
+      <th>447</th>
       <td>사조동아원</td>
       <td>008040</td>
       <td>1.80</td>
       <td>24.33</td>
+      <td>603</td>
+      <td>455</td>
       <td>529.0</td>
     </tr>
     <tr>
-      <th>578</th>
+      <th>448</th>
       <td>상신브레이크</td>
       <td>041650</td>
       <td>1.01</td>
       <td>7.07</td>
+      <td>402</td>
+      <td>657</td>
       <td>529.5</td>
     </tr>
     <tr>
-      <th>579</th>
+      <th>449</th>
       <td>유니드</td>
       <td>014830</td>
       <td>0.79</td>
       <td>9.95</td>
+      <td>289</td>
+      <td>771</td>
       <td>530.0</td>
     </tr>
     <tr>
-      <th>580</th>
+      <th>450</th>
       <td>무학</td>
       <td>033920</td>
       <td>0.98</td>
       <td>7.68</td>
+      <td>384</td>
+      <td>677</td>
       <td>530.5</td>
     </tr>
     <tr>
-      <th>581</th>
+      <th>451</th>
       <td>잇츠한불</td>
       <td>226320</td>
       <td>3.07</td>
       <td>17.78</td>
+      <td>697</td>
+      <td>365</td>
       <td>531.0</td>
     </tr>
     <tr>
-      <th>582</th>
+      <th>452</th>
       <td>광명전기</td>
       <td>017040</td>
       <td>2.18</td>
       <td>20.60</td>
+      <td>647</td>
+      <td>416</td>
       <td>531.5</td>
     </tr>
     <tr>
-      <th>583</th>
+      <th>453</th>
       <td>한국타이어</td>
       <td>161390</td>
       <td>1.03</td>
       <td>7.02</td>
+      <td>410</td>
+      <td>653</td>
       <td>531.5</td>
     </tr>
     <tr>
-      <th>584</th>
+      <th>454</th>
       <td>오뚜기</td>
       <td>007310</td>
       <td>2.65</td>
       <td>19.44</td>
+      <td>678</td>
+      <td>386</td>
       <td>532.0</td>
     </tr>
     <tr>
-      <th>585</th>
+      <th>455</th>
       <td>휴비스</td>
       <td>079980</td>
       <td>1.19</td>
       <td>50.56</td>
+      <td>471</td>
+      <td>594</td>
       <td>532.5</td>
     </tr>
     <tr>
-      <th>587</th>
+      <th>456</th>
       <td>넥센타이어</td>
       <td>002350</td>
       <td>1.04</td>
       <td>7.03</td>
+      <td>414</td>
+      <td>654</td>
       <td>534.0</td>
     </tr>
     <tr>
-      <th>586</th>
+      <th>457</th>
       <td>신영증권</td>
       <td>001720</td>
       <td>0.89</td>
       <td>8.86</td>
+      <td>347</td>
+      <td>721</td>
       <td>534.0</td>
     </tr>
     <tr>
-      <th>588</th>
+      <th>458</th>
       <td>한국쉘석유</td>
       <td>002960</td>
       <td>4.45</td>
       <td>15.89</td>
+      <td>735</td>
+      <td>333</td>
       <td>534.0</td>
     </tr>
     <tr>
-      <th>589</th>
+      <th>459</th>
       <td>한신공영</td>
       <td>004960</td>
       <td>0.90</td>
       <td>8.79</td>
+      <td>351</td>
+      <td>719</td>
       <td>535.0</td>
     </tr>
     <tr>
-      <th>590</th>
+      <th>460</th>
       <td>국동</td>
       <td>005320</td>
       <td>1.00</td>
       <td>7.60</td>
+      <td>395</td>
+      <td>676</td>
       <td>535.5</td>
     </tr>
     <tr>
-      <th>591</th>
+      <th>461</th>
       <td>한미반도체</td>
       <td>042700</td>
       <td>3.19</td>
       <td>18.07</td>
+      <td>701</td>
+      <td>371</td>
       <td>536.0</td>
     </tr>
     <tr>
-      <th>592</th>
+      <th>462</th>
       <td>삼화왕관</td>
       <td>004450</td>
       <td>0.85</td>
       <td>9.57</td>
+      <td>319</td>
+      <td>754</td>
       <td>536.5</td>
     </tr>
     <tr>
-      <th>593</th>
+      <th>463</th>
       <td>샘표식품</td>
       <td>248170</td>
       <td>1.65</td>
       <td>29.68</td>
+      <td>587</td>
+      <td>486</td>
       <td>536.5</td>
     </tr>
     <tr>
-      <th>594</th>
+      <th>464</th>
       <td>한세예스24홀딩스</td>
       <td>016450</td>
       <td>1.67</td>
       <td>28.41</td>
+      <td>591</td>
+      <td>483</td>
       <td>537.0</td>
     </tr>
     <tr>
-      <th>595</th>
+      <th>465</th>
       <td>LS산전</td>
       <td>010120</td>
       <td>1.93</td>
       <td>24.93</td>
+      <td>616</td>
+      <td>459</td>
       <td>537.5</td>
     </tr>
     <tr>
-      <th>596</th>
+      <th>466</th>
       <td>NHN엔터테인먼트</td>
       <td>181710</td>
       <td>0.82</td>
       <td>94.62</td>
+      <td>302</td>
+      <td>775</td>
       <td>538.5</td>
     </tr>
     <tr>
-      <th>597</th>
+      <th>467</th>
       <td>덴티움</td>
       <td>145720</td>
       <td>12.62</td>
       <td>24.17</td>
+      <td>626</td>
+      <td>452</td>
       <td>539.0</td>
     </tr>
     <tr>
-      <th>598</th>
+      <th>468</th>
       <td>삼성SDI</td>
       <td>006400</td>
       <td>1.20</td>
       <td>58.57</td>
+      <td>472</td>
+      <td>609</td>
       <td>540.5</td>
     </tr>
     <tr>
-      <th>599</th>
+      <th>469</th>
       <td>롯데지주</td>
       <td>004990</td>
       <td>1.34</td>
       <td>46.73</td>
+      <td>516</td>
+      <td>567</td>
       <td>541.5</td>
     </tr>
     <tr>
-      <th>600</th>
+      <th>470</th>
       <td>SK하이닉스</td>
       <td>000660</td>
       <td>2.56</td>
       <td>20.20</td>
+      <td>672</td>
+      <td>411</td>
       <td>541.5</td>
     </tr>
     <tr>
-      <th>601</th>
+      <th>471</th>
       <td>삼화전기</td>
       <td>009470</td>
       <td>5.42</td>
       <td>154.50</td>
+      <td>749</td>
+      <td>338</td>
       <td>543.5</td>
     </tr>
     <tr>
-      <th>602</th>
+      <th>472</th>
       <td>삼익THK</td>
       <td>004380</td>
       <td>2.30</td>
       <td>21.90</td>
+      <td>660</td>
+      <td>429</td>
       <td>544.5</td>
     </tr>
     <tr>
-      <th>603</th>
+      <th>473</th>
       <td>한라</td>
       <td>014790</td>
       <td>1.11</td>
       <td>66.64</td>
+      <td>443</td>
+      <td>646</td>
       <td>544.5</td>
     </tr>
     <tr>
-      <th>604</th>
+      <th>474</th>
       <td>두올</td>
       <td>016740</td>
       <td>0.99</td>
       <td>8.08</td>
+      <td>390</td>
+      <td>699</td>
       <td>544.5</td>
     </tr>
     <tr>
-      <th>605</th>
+      <th>475</th>
       <td>한샘</td>
       <td>009240</td>
       <td>5.06</td>
       <td>16.52</td>
+      <td>744</td>
+      <td>347</td>
       <td>545.5</td>
     </tr>
     <tr>
-      <th>609</th>
+      <th>476</th>
       <td>락앤락</td>
       <td>115390</td>
       <td>1.93</td>
       <td>27.22</td>
+      <td>617</td>
+      <td>475</td>
       <td>546.0</td>
     </tr>
     <tr>
-      <th>608</th>
+      <th>477</th>
       <td>한창</td>
       <td>005110</td>
       <td>2.45</td>
       <td>21.82</td>
+      <td>666</td>
+      <td>426</td>
       <td>546.0</td>
     </tr>
     <tr>
-      <th>606</th>
+      <th>478</th>
       <td>동양물산</td>
       <td>002900</td>
       <td>1.37</td>
       <td>49.64</td>
+      <td>519</td>
+      <td>573</td>
       <td>546.0</td>
     </tr>
     <tr>
-      <th>607</th>
+      <th>479</th>
       <td>삼진제약</td>
       <td>005500</td>
       <td>3.67</td>
       <td>18.47</td>
+      <td>717</td>
+      <td>375</td>
       <td>546.0</td>
     </tr>
     <tr>
-      <th>610</th>
+      <th>480</th>
       <td>한온시스템</td>
       <td>018880</td>
       <td>3.18</td>
       <td>19.93</td>
+      <td>700</td>
+      <td>394</td>
       <td>547.0</td>
     </tr>
     <tr>
-      <th>611</th>
+      <th>481</th>
       <td>백산</td>
       <td>035150</td>
       <td>1.19</td>
       <td>6.51</td>
+      <td>470</td>
+      <td>626</td>
       <td>548.0</td>
     </tr>
     <tr>
-      <th>613</th>
+      <th>482</th>
       <td>호전실업</td>
       <td>111110</td>
       <td>1.25</td>
       <td>6.07</td>
+      <td>488</td>
+      <td>611</td>
       <td>549.5</td>
     </tr>
     <tr>
-      <th>612</th>
+      <th>483</th>
       <td>휴켐스</td>
       <td>069260</td>
       <td>2.21</td>
       <td>23.79</td>
+      <td>651</td>
+      <td>448</td>
       <td>549.5</td>
     </tr>
     <tr>
-      <th>614</th>
+      <th>484</th>
       <td>조선선재</td>
       <td>120030</td>
       <td>1.17</td>
       <td>6.92</td>
+      <td>463</td>
+      <td>637</td>
       <td>550.0</td>
     </tr>
     <tr>
-      <th>617</th>
+      <th>485</th>
       <td>현대엘리베이</td>
       <td>017800</td>
       <td>3.29</td>
       <td>19.90</td>
+      <td>708</td>
+      <td>393</td>
       <td>550.5</td>
     </tr>
     <tr>
-      <th>616</th>
+      <th>486</th>
       <td>DB손해보험</td>
       <td>005830</td>
       <td>1.07</td>
       <td>7.60</td>
+      <td>427</td>
+      <td>674</td>
       <td>550.5</td>
     </tr>
     <tr>
-      <th>615</th>
+      <th>487</th>
       <td>극동유화</td>
       <td>014530</td>
       <td>0.92</td>
       <td>9.21</td>
+      <td>359</td>
+      <td>742</td>
       <td>550.5</td>
     </tr>
     <tr>
-      <th>618</th>
+      <th>488</th>
       <td>동서</td>
       <td>026960</td>
       <td>2.34</td>
       <td>22.98</td>
+      <td>662</td>
+      <td>442</td>
       <td>552.0</td>
     </tr>
     <tr>
-      <th>619</th>
+      <th>489</th>
       <td>호텔신라</td>
       <td>008770</td>
       <td>7.01</td>
       <td>159.12</td>
+      <td>765</td>
+      <td>340</td>
       <td>552.5</td>
     </tr>
     <tr>
-      <th>620</th>
+      <th>490</th>
       <td>메리츠종금증권</td>
       <td>008560</td>
       <td>1.10</td>
       <td>7.44</td>
+      <td>435</td>
+      <td>670</td>
       <td>552.5</td>
     </tr>
     <tr>
-      <th>621</th>
+      <th>491</th>
       <td>동성코퍼레이션</td>
       <td>102260</td>
       <td>1.05</td>
       <td>7.97</td>
+      <td>419</td>
+      <td>688</td>
       <td>553.5</td>
     </tr>
     <tr>
-      <th>622</th>
+      <th>492</th>
       <td>백광산업</td>
       <td>001340</td>
       <td>1.28</td>
       <td>56.23</td>
+      <td>501</td>
+      <td>607</td>
       <td>554.0</td>
     </tr>
     <tr>
-      <th>623</th>
+      <th>493</th>
       <td>유나이티드제약</td>
       <td>033270</td>
       <td>2.59</td>
       <td>22.20</td>
+      <td>673</td>
+      <td>435</td>
       <td>554.0</td>
     </tr>
     <tr>
-      <th>624</th>
+      <th>494</th>
       <td>효성ITX</td>
       <td>094280</td>
       <td>2.91</td>
       <td>20.75</td>
+      <td>688</td>
+      <td>421</td>
       <td>554.5</td>
     </tr>
     <tr>
-      <th>626</th>
+      <th>495</th>
       <td>동원시스템즈</td>
       <td>014820</td>
       <td>4.05</td>
       <td>18.97</td>
+      <td>729</td>
+      <td>381</td>
       <td>555.0</td>
     </tr>
     <tr>
-      <th>625</th>
+      <th>496</th>
       <td>삼일제약</td>
       <td>000520</td>
       <td>3.51</td>
       <td>193.97</td>
+      <td>715</td>
+      <td>395</td>
       <td>555.0</td>
     </tr>
     <tr>
-      <th>628</th>
+      <th>497</th>
       <td>조광피혁</td>
       <td>004700</td>
       <td>1.24</td>
       <td>6.48</td>
+      <td>486</td>
+      <td>625</td>
       <td>555.5</td>
     </tr>
     <tr>
-      <th>627</th>
+      <th>498</th>
       <td>알보젠코리아</td>
       <td>002250</td>
       <td>1.65</td>
       <td>37.77</td>
+      <td>585</td>
+      <td>526</td>
       <td>555.5</td>
     </tr>
     <tr>
-      <th>629</th>
+      <th>499</th>
       <td>현대홈쇼핑</td>
       <td>057050</td>
       <td>0.89</td>
       <td>9.92</td>
+      <td>346</td>
+      <td>768</td>
       <td>557.0</td>
     </tr>
     <tr>
-      <th>630</th>
+      <th>500</th>
       <td>경동나비엔</td>
       <td>009450</td>
       <td>3.22</td>
       <td>20.41</td>
+      <td>702</td>
+      <td>413</td>
       <td>557.5</td>
     </tr>
     <tr>
-      <th>631</th>
+      <th>501</th>
       <td>제일기획</td>
       <td>030000</td>
       <td>2.88</td>
       <td>21.93</td>
+      <td>685</td>
+      <td>431</td>
       <td>558.0</td>
     </tr>
     <tr>
-      <th>632</th>
+      <th>502</th>
       <td>명문제약</td>
       <td>017180</td>
       <td>2.21</td>
       <td>26.37</td>
+      <td>650</td>
+      <td>468</td>
       <td>559.0</td>
     </tr>
     <tr>
-      <th>633</th>
+      <th>503</th>
       <td>삼양사</td>
       <td>145990</td>
       <td>0.90</td>
       <td>9.90</td>
+      <td>352</td>
+      <td>767</td>
       <td>559.5</td>
     </tr>
     <tr>
-      <th>634</th>
+      <th>504</th>
       <td>계양전기</td>
       <td>012200</td>
       <td>0.93</td>
       <td>9.71</td>
+      <td>362</td>
+      <td>759</td>
       <td>560.5</td>
     </tr>
     <tr>
-      <th>635</th>
+      <th>505</th>
       <td>한국화장품제조</td>
       <td>003350</td>
       <td>5.10</td>
       <td>18.68</td>
+      <td>745</td>
+      <td>378</td>
       <td>561.5</td>
     </tr>
     <tr>
-      <th>637</th>
+      <th>506</th>
       <td>CJ대한통운</td>
       <td>000120</td>
       <td>1.52</td>
       <td>49.43</td>
+      <td>553</td>
+      <td>571</td>
       <td>562.0</td>
     </tr>
     <tr>
-      <th>636</th>
+      <th>507</th>
       <td>하나투어</td>
       <td>039130</td>
       <td>7.30</td>
       <td>163.69</td>
+      <td>767</td>
+      <td>357</td>
       <td>562.0</td>
     </tr>
     <tr>
-      <th>638</th>
+      <th>508</th>
       <td>F&amp;F</td>
       <td>007700</td>
       <td>2.97</td>
       <td>22.26</td>
+      <td>689</td>
+      <td>439</td>
       <td>564.0</td>
     </tr>
     <tr>
-      <th>639</th>
+      <th>509</th>
       <td>KC코트렐</td>
       <td>119650</td>
       <td>1.10</td>
       <td>75.97</td>
+      <td>438</td>
+      <td>691</td>
       <td>564.5</td>
     </tr>
     <tr>
-      <th>640</th>
+      <th>510</th>
       <td>메리츠금융지주</td>
       <td>138040</td>
       <td>1.13</td>
       <td>7.75</td>
+      <td>451</td>
+      <td>680</td>
       <td>565.5</td>
     </tr>
     <tr>
-      <th>641</th>
+      <th>511</th>
       <td>제일파마홀딩스</td>
       <td>002620</td>
       <td>1.60</td>
       <td>43.36</td>
+      <td>573</td>
+      <td>558</td>
       <td>565.5</td>
     </tr>
     <tr>
-      <th>642</th>
+      <th>512</th>
       <td>지투알</td>
       <td>035000</td>
       <td>0.98</td>
       <td>9.33</td>
+      <td>386</td>
+      <td>749</td>
       <td>567.5</td>
     </tr>
     <tr>
-      <th>644</th>
+      <th>513</th>
       <td>풀무원</td>
       <td>017810</td>
       <td>2.19</td>
       <td>29.94</td>
+      <td>649</td>
+      <td>488</td>
       <td>568.5</td>
     </tr>
     <tr>
-      <th>643</th>
+      <th>514</th>
       <td>휠라코리아</td>
       <td>081660</td>
       <td>1.74</td>
       <td>4.59</td>
+      <td>598</td>
+      <td>539</td>
       <td>568.5</td>
     </tr>
     <tr>
-      <th>645</th>
+      <th>515</th>
       <td>미래에셋대우</td>
       <td>006800</td>
       <td>1.03</td>
       <td>86.55</td>
+      <td>409</td>
+      <td>730</td>
       <td>569.5</td>
     </tr>
     <tr>
-      <th>646</th>
+      <th>516</th>
       <td>한국화장품</td>
       <td>123690</td>
       <td>5.22</td>
       <td>19.89</td>
+      <td>748</td>
+      <td>392</td>
       <td>570.0</td>
     </tr>
     <tr>
-      <th>647</th>
+      <th>517</th>
       <td>디와이파워</td>
       <td>210540</td>
       <td>2.55</td>
       <td>26.67</td>
+      <td>670</td>
+      <td>471</td>
       <td>570.5</td>
     </tr>
     <tr>
-      <th>648</th>
+      <th>518</th>
       <td>경보제약</td>
       <td>214390</td>
       <td>2.60</td>
       <td>26.55</td>
+      <td>674</td>
+      <td>470</td>
       <td>572.0</td>
     </tr>
     <tr>
-      <th>649</th>
+      <th>519</th>
       <td>대한유화</td>
       <td>006650</td>
       <td>1.39</td>
       <td>6.25</td>
+      <td>525</td>
+      <td>620</td>
       <td>572.5</td>
     </tr>
     <tr>
-      <th>650</th>
+      <th>520</th>
       <td>SPC삼립</td>
       <td>005610</td>
       <td>3.81</td>
       <td>21.81</td>
+      <td>722</td>
+      <td>425</td>
       <td>573.5</td>
     </tr>
     <tr>
-      <th>651</th>
+      <th>521</th>
       <td>토니모리</td>
       <td>214420</td>
       <td>2.69</td>
       <td>26.54</td>
+      <td>679</td>
+      <td>469</td>
       <td>574.0</td>
     </tr>
     <tr>
-      <th>652</th>
+      <th>522</th>
       <td>현대해상</td>
       <td>001450</td>
       <td>1.20</td>
       <td>7.44</td>
+      <td>478</td>
+      <td>671</td>
       <td>574.5</td>
     </tr>
     <tr>
-      <th>653</th>
+      <th>523</th>
       <td>영진약품</td>
       <td>003520</td>
       <td>14.35</td>
       <td>357.50</td>
+      <td>629</td>
+      <td>520</td>
       <td>574.5</td>
     </tr>
     <tr>
-      <th>655</th>
+      <th>524</th>
       <td>스카이라이프</td>
       <td>053210</td>
       <td>1.10</td>
       <td>8.66</td>
+      <td>437</td>
+      <td>714</td>
       <td>575.5</td>
     </tr>
     <tr>
-      <th>654</th>
+      <th>525</th>
       <td>한전KPS</td>
       <td>051600</td>
       <td>2.89</td>
       <td>25.84</td>
+      <td>686</td>
+      <td>465</td>
       <td>575.5</td>
     </tr>
     <tr>
-      <th>656</th>
+      <th>526</th>
       <td>서울식품</td>
       <td>004410</td>
       <td>3.06</td>
       <td>242.00</td>
+      <td>696</td>
+      <td>461</td>
       <td>578.5</td>
     </tr>
     <tr>
-      <th>657</th>
+      <th>527</th>
       <td>에스원</td>
       <td>012750</td>
       <td>3.39</td>
       <td>23.60</td>
+      <td>711</td>
+      <td>447</td>
       <td>579.0</td>
     </tr>
     <tr>
-      <th>659</th>
+      <th>528</th>
       <td>미원홀딩스</td>
       <td>107590</td>
       <td>1.26</td>
       <td>7.41</td>
+      <td>491</td>
+      <td>669</td>
       <td>580.0</td>
     </tr>
     <tr>
-      <th>658</th>
+      <th>529</th>
       <td>코리아오토글라스</td>
       <td>152330</td>
       <td>1.20</td>
       <td>7.96</td>
+      <td>473</td>
+      <td>687</td>
       <td>580.0</td>
     </tr>
     <tr>
-      <th>660</th>
+      <th>530</th>
       <td>이연제약</td>
       <td>102460</td>
       <td>2.17</td>
       <td>35.56</td>
+      <td>645</td>
+      <td>519</td>
       <td>582.0</td>
     </tr>
     <tr>
-      <th>661</th>
+      <th>531</th>
       <td>LG이노텍</td>
       <td>011070</td>
       <td>1.55</td>
       <td>557.42</td>
+      <td>565</td>
+      <td>605</td>
       <td>585.0</td>
     </tr>
     <tr>
-      <th>662</th>
+      <th>532</th>
       <td>신일산업</td>
       <td>002700</td>
       <td>2.48</td>
       <td>31.55</td>
+      <td>668</td>
+      <td>502</td>
       <td>585.0</td>
     </tr>
     <tr>
-      <th>663</th>
+      <th>533</th>
       <td>신세계푸드</td>
       <td>031440</td>
       <td>1.96</td>
       <td>40.79</td>
+      <td>621</td>
+      <td>553</td>
       <td>587.0</td>
     </tr>
     <tr>
-      <th>664</th>
+      <th>534</th>
       <td>IHQ</td>
       <td>003560</td>
       <td>1.40</td>
       <td>69.03</td>
+      <td>528</td>
+      <td>651</td>
       <td>589.5</td>
     </tr>
     <tr>
-      <th>665</th>
+      <th>535</th>
       <td>평화산업</td>
       <td>090080</td>
       <td>1.62</td>
       <td>55.43</td>
+      <td>579</td>
+      <td>604</td>
       <td>591.5</td>
     </tr>
     <tr>
-      <th>666</th>
+      <th>536</th>
       <td>코스모신소재</td>
       <td>005070</td>
       <td>5.68</td>
       <td>210.33</td>
+      <td>752</td>
+      <td>432</td>
       <td>592.0</td>
     </tr>
     <tr>
-      <th>667</th>
+      <th>537</th>
       <td>영화금속</td>
       <td>012280</td>
       <td>1.20</td>
       <td>8.44</td>
+      <td>477</td>
+      <td>708</td>
       <td>592.5</td>
     </tr>
     <tr>
-      <th>668</th>
+      <th>538</th>
       <td>종근당</td>
       <td>185750</td>
       <td>3.25</td>
       <td>28.13</td>
+      <td>704</td>
+      <td>481</td>
       <td>592.5</td>
     </tr>
     <tr>
-      <th>669</th>
+      <th>539</th>
       <td>농심</td>
       <td>004370</td>
       <td>1.10</td>
       <td>9.40</td>
+      <td>434</td>
+      <td>752</td>
       <td>593.0</td>
     </tr>
     <tr>
-      <th>670</th>
+      <th>540</th>
       <td>한국콜마홀딩스</td>
       <td>024720</td>
       <td>3.80</td>
       <td>26.03</td>
+      <td>721</td>
+      <td>466</td>
       <td>593.5</td>
     </tr>
     <tr>
-      <th>671</th>
+      <th>541</th>
       <td>녹십자홀딩스</td>
       <td>005250</td>
       <td>2.45</td>
       <td>36.77</td>
+      <td>667</td>
+      <td>521</td>
       <td>594.0</td>
     </tr>
     <tr>
-      <th>672</th>
+      <th>542</th>
       <td>모나리자</td>
       <td>012690</td>
       <td>2.63</td>
       <td>33.09</td>
+      <td>676</td>
+      <td>512</td>
       <td>594.0</td>
     </tr>
     <tr>
-      <th>673</th>
+      <th>543</th>
       <td>애경산업</td>
       <td>018250</td>
       <td>11.10</td>
       <td>44.71</td>
+      <td>625</td>
+      <td>564</td>
       <td>594.5</td>
     </tr>
     <tr>
-      <th>674</th>
+      <th>544</th>
       <td>일동제약</td>
       <td>249420</td>
       <td>2.00</td>
       <td>42.56</td>
+      <td>633</td>
+      <td>557</td>
       <td>595.0</td>
     </tr>
     <tr>
-      <th>675</th>
+      <th>545</th>
       <td>제주항공</td>
       <td>089590</td>
       <td>4.73</td>
       <td>24.04</td>
+      <td>742</td>
+      <td>451</td>
       <td>596.5</td>
     </tr>
     <tr>
-      <th>676</th>
+      <th>546</th>
       <td>미원상사</td>
       <td>002840</td>
       <td>1.13</td>
       <td>9.31</td>
+      <td>452</td>
+      <td>748</td>
       <td>600.0</td>
     </tr>
     <tr>
-      <th>677</th>
+      <th>547</th>
       <td>녹십자</td>
       <td>006280</td>
       <td>2.55</td>
       <td>39.72</td>
+      <td>671</td>
+      <td>531</td>
       <td>601.0</td>
     </tr>
     <tr>
-      <th>678</th>
+      <th>548</th>
       <td>대웅</td>
       <td>003090</td>
       <td>2.22</td>
       <td>40.26</td>
+      <td>653</td>
+      <td>550</td>
       <td>601.5</td>
     </tr>
     <tr>
-      <th>679</th>
+      <th>549</th>
       <td>신흥</td>
       <td>004080</td>
       <td>1.20</td>
       <td>87.19</td>
+      <td>474</td>
+      <td>732</td>
       <td>603.0</td>
     </tr>
     <tr>
-      <th>680</th>
+      <th>550</th>
       <td>금호석유</td>
       <td>011780</td>
       <td>2.22</td>
       <td>41.06</td>
+      <td>652</td>
+      <td>555</td>
       <td>603.5</td>
     </tr>
     <tr>
-      <th>681</th>
+      <th>551</th>
       <td>마니커</td>
       <td>027740</td>
       <td>1.10</td>
       <td>92.11</td>
+      <td>436</td>
+      <td>774</td>
       <td>605.0</td>
     </tr>
     <tr>
-      <th>682</th>
+      <th>552</th>
       <td>우리들제약</td>
       <td>004720</td>
       <td>3.28</td>
       <td>32.69</td>
+      <td>707</td>
+      <td>507</td>
       <td>607.0</td>
     </tr>
     <tr>
-      <th>683</th>
+      <th>553</th>
       <td>엔씨소프트</td>
       <td>036570</td>
       <td>4.19</td>
       <td>28.16</td>
+      <td>732</td>
+      <td>482</td>
       <td>607.0</td>
     </tr>
     <tr>
-      <th>685</th>
+      <th>554</th>
       <td>JW생명과학</td>
       <td>234080</td>
       <td>4.59</td>
       <td>27.35</td>
+      <td>739</td>
+      <td>476</td>
       <td>607.5</td>
     </tr>
     <tr>
-      <th>684</th>
+      <th>555</th>
       <td>한미약품</td>
       <td>128940</td>
       <td>8.04</td>
       <td>226.54</td>
+      <td>772</td>
+      <td>443</td>
       <td>607.5</td>
     </tr>
     <tr>
-      <th>686</th>
+      <th>556</th>
       <td>선도전기</td>
       <td>007610</td>
       <td>1.62</td>
       <td>60.33</td>
+      <td>580</td>
+      <td>639</td>
       <td>609.5</td>
     </tr>
     <tr>
-      <th>687</th>
+      <th>557</th>
       <td>SK텔레콤</td>
       <td>017670</td>
       <td>1.16</td>
       <td>9.72</td>
+      <td>460</td>
+      <td>760</td>
       <td>610.0</td>
     </tr>
     <tr>
-      <th>688</th>
+      <th>558</th>
       <td>코웨이</td>
       <td>021240</td>
       <td>5.65</td>
       <td>26.68</td>
+      <td>751</td>
+      <td>472</td>
       <td>611.5</td>
     </tr>
     <tr>
-      <th>689</th>
+      <th>559</th>
       <td>넷마블</td>
       <td>251270</td>
       <td>10.28</td>
       <td>54.23</td>
+      <td>622</td>
+      <td>601</td>
       <td>611.5</td>
     </tr>
     <tr>
-      <th>690</th>
+      <th>560</th>
       <td>신성이엔지</td>
       <td>011930</td>
       <td>2.28</td>
       <td>48.79</td>
+      <td>657</td>
+      <td>570</td>
       <td>613.5</td>
     </tr>
     <tr>
-      <th>691</th>
+      <th>561</th>
       <td>DB하이텍</td>
       <td>000990</td>
       <td>1.75</td>
       <td>6.59</td>
+      <td>600</td>
+      <td>628</td>
       <td>614.0</td>
     </tr>
     <tr>
-      <th>692</th>
+      <th>562</th>
       <td>롯데케미칼</td>
       <td>011170</td>
       <td>1.52</td>
       <td>7.60</td>
+      <td>554</td>
+      <td>675</td>
       <td>614.5</td>
     </tr>
     <tr>
-      <th>693</th>
+      <th>563</th>
       <td>NI스틸</td>
       <td>008260</td>
       <td>1.17</td>
       <td>9.93</td>
+      <td>465</td>
+      <td>769</td>
       <td>617.0</td>
     </tr>
     <tr>
-      <th>695</th>
+      <th>564</th>
       <td>엔에스쇼핑</td>
       <td>138250</td>
       <td>1.25</td>
       <td>9.38</td>
+      <td>489</td>
+      <td>750</td>
       <td>619.5</td>
     </tr>
     <tr>
-      <th>694</th>
+      <th>565</th>
       <td>신세계인터내셔날</td>
       <td>031430</td>
       <td>2.01</td>
       <td>55.10</td>
+      <td>636</td>
+      <td>603</td>
       <td>619.5</td>
     </tr>
     <tr>
-      <th>696</th>
+      <th>566</th>
       <td>NAVER</td>
       <td>035420</td>
       <td>6.57</td>
       <td>27.81</td>
+      <td>763</td>
+      <td>478</td>
       <td>620.5</td>
     </tr>
     <tr>
-      <th>697</th>
+      <th>567</th>
       <td>한국토지신탁</td>
       <td>034830</td>
       <td>1.38</td>
       <td>8.80</td>
+      <td>522</td>
+      <td>720</td>
       <td>621.0</td>
     </tr>
     <tr>
-      <th>698</th>
+      <th>568</th>
       <td>제이준코스메틱</td>
       <td>025620</td>
       <td>6.36</td>
       <td>29.51</td>
+      <td>760</td>
+      <td>485</td>
       <td>622.5</td>
     </tr>
     <tr>
-      <th>699</th>
+      <th>569</th>
       <td>대원전선</td>
       <td>006340</td>
       <td>1.70</td>
       <td>68.93</td>
+      <td>595</td>
+      <td>650</td>
       <td>622.5</td>
     </tr>
     <tr>
-      <th>700</th>
+      <th>570</th>
       <td>오리온홀딩스</td>
       <td>001800</td>
       <td>1.44</td>
       <td>8.54</td>
+      <td>536</td>
+      <td>710</td>
       <td>623.0</td>
     </tr>
     <tr>
-      <th>701</th>
+      <th>571</th>
       <td>삼양식품</td>
       <td>003230</td>
       <td>3.87</td>
       <td>37.06</td>
+      <td>725</td>
+      <td>522</td>
       <td>623.5</td>
     </tr>
     <tr>
-      <th>702</th>
+      <th>572</th>
       <td>아모레G</td>
       <td>002790</td>
       <td>4.49</td>
       <td>33.73</td>
+      <td>736</td>
+      <td>514</td>
       <td>625.0</td>
     </tr>
     <tr>
-      <th>703</th>
+      <th>573</th>
       <td>효성</td>
       <td>004800</td>
       <td>1.28</td>
       <td>9.60</td>
+      <td>498</td>
+      <td>756</td>
       <td>627.0</td>
     </tr>
     <tr>
-      <th>704</th>
+      <th>574</th>
       <td>일진머티리얼즈</td>
       <td>020150</td>
       <td>4.73</td>
       <td>34.45</td>
+      <td>743</td>
+      <td>518</td>
       <td>630.5</td>
     </tr>
     <tr>
-      <th>705</th>
+      <th>575</th>
       <td>한국자산신탁</td>
       <td>123890</td>
       <td>1.54</td>
       <td>8.14</td>
+      <td>562</td>
+      <td>700</td>
       <td>631.0</td>
     </tr>
     <tr>
-      <th>706</th>
+      <th>576</th>
       <td>한국콜마</td>
       <td>161890</td>
       <td>6.40</td>
       <td>32.51</td>
+      <td>761</td>
+      <td>506</td>
       <td>633.5</td>
     </tr>
     <tr>
-      <th>707</th>
+      <th>577</th>
       <td>휴니드</td>
       <td>005870</td>
       <td>1.57</td>
       <td>8.20</td>
+      <td>567</td>
+      <td>702</td>
       <td>634.5</td>
     </tr>
     <tr>
-      <th>708</th>
+      <th>578</th>
       <td>보락</td>
       <td>002760</td>
       <td>3.27</td>
       <td>45.78</td>
+      <td>706</td>
+      <td>565</td>
       <td>635.5</td>
     </tr>
     <tr>
-      <th>709</th>
+      <th>579</th>
       <td>미원화학</td>
       <td>134380</td>
       <td>1.40</td>
       <td>9.30</td>
+      <td>526</td>
+      <td>747</td>
       <td>636.5</td>
     </tr>
     <tr>
-      <th>710</th>
+      <th>580</th>
       <td>삼성에스디에스</td>
       <td>018260</td>
       <td>3.69</td>
       <td>40.85</td>
+      <td>719</td>
+      <td>554</td>
       <td>636.5</td>
     </tr>
     <tr>
-      <th>711</th>
+      <th>581</th>
       <td>아모레퍼시픽</td>
       <td>090430</td>
       <td>6.21</td>
       <td>37.66</td>
+      <td>756</td>
+      <td>525</td>
       <td>640.5</td>
     </tr>
     <tr>
-      <th>712</th>
+      <th>582</th>
       <td>일성건설</td>
       <td>013360</td>
       <td>1.69</td>
       <td>74.27</td>
+      <td>593</td>
+      <td>689</td>
       <td>641.0</td>
     </tr>
     <tr>
-      <th>713</th>
+      <th>583</th>
       <td>세하</td>
       <td>027970</td>
       <td>3.04</td>
       <td>5.92</td>
+      <td>695</td>
+      <td>591</td>
       <td>643.0</td>
     </tr>
     <tr>
-      <th>714</th>
+      <th>584</th>
       <td>에넥스</td>
       <td>011090</td>
       <td>2.13</td>
       <td>61.03</td>
+      <td>644</td>
+      <td>642</td>
       <td>643.0</td>
     </tr>
     <tr>
-      <th>715</th>
+      <th>585</th>
       <td>메리츠화재</td>
       <td>000060</td>
       <td>1.42</td>
       <td>9.57</td>
+      <td>531</td>
+      <td>755</td>
       <td>643.0</td>
     </tr>
     <tr>
-      <th>716</th>
+      <th>586</th>
       <td>삼성전기</td>
       <td>009150</td>
       <td>2.17</td>
       <td>613.99</td>
+      <td>646</td>
+      <td>643</td>
       <td>644.5</td>
     </tr>
     <tr>
-      <th>717</th>
+      <th>587</th>
       <td>일진다이아</td>
       <td>081000</td>
       <td>3.02</td>
       <td>54.96</td>
+      <td>693</td>
+      <td>602</td>
       <td>647.5</td>
     </tr>
     <tr>
-      <th>718</th>
+      <th>588</th>
       <td>남해화학</td>
       <td>025860</td>
       <td>2.28</td>
       <td>60.43</td>
+      <td>658</td>
+      <td>640</td>
       <td>649.0</td>
     </tr>
     <tr>
-      <th>719</th>
+      <th>589</th>
       <td>동아에스티</td>
       <td>170900</td>
       <td>1.58</td>
       <td>86.75</td>
+      <td>568</td>
+      <td>731</td>
       <td>649.5</td>
     </tr>
     <tr>
-      <th>720</th>
+      <th>590</th>
       <td>선진</td>
       <td>136490</td>
       <td>1.54</td>
       <td>9.10</td>
+      <td>563</td>
+      <td>737</td>
       <td>650.0</td>
     </tr>
     <tr>
-      <th>721</th>
+      <th>591</th>
       <td>천일고속</td>
       <td>000650</td>
       <td>3.31</td>
       <td>51.34</td>
+      <td>709</td>
+      <td>596</td>
       <td>652.5</td>
     </tr>
     <tr>
-      <th>722</th>
+      <th>592</th>
       <td>유니켐</td>
       <td>011330</td>
       <td>3.41</td>
       <td>52.92</td>
+      <td>712</td>
+      <td>600</td>
       <td>656.0</td>
     </tr>
     <tr>
-      <th>723</th>
+      <th>593</th>
       <td>애경유화</td>
       <td>161000</td>
       <td>1.83</td>
       <td>8.73</td>
+      <td>605</td>
+      <td>715</td>
       <td>660.0</td>
     </tr>
     <tr>
-      <th>724</th>
+      <th>594</th>
       <td>코스맥스</td>
       <td>192820</td>
       <td>7.48</td>
       <td>40.73</td>
+      <td>769</td>
+      <td>552</td>
       <td>660.5</td>
     </tr>
     <tr>
-      <th>725</th>
+      <th>595</th>
       <td>한올바이오파마</td>
       <td>009420</td>
       <td>15.29</td>
       <td>763.75</td>
+      <td>630</td>
+      <td>694</td>
       <td>662.0</td>
     </tr>
     <tr>
-      <th>726</th>
+      <th>596</th>
       <td>LG생활건강</td>
       <td>051900</td>
       <td>9.59</td>
       <td>40.41</td>
+      <td>776</td>
+      <td>551</td>
       <td>663.5</td>
     </tr>
     <tr>
-      <th>727</th>
+      <th>597</th>
       <td>롯데관광개발</td>
       <td>032350</td>
       <td>5.91</td>
       <td>497.67</td>
+      <td>754</td>
+      <td>574</td>
       <td>664.0</td>
     </tr>
     <tr>
-      <th>728</th>
+      <th>598</th>
       <td>대우부품</td>
       <td>009320</td>
       <td>4.21</td>
       <td>57.96</td>
+      <td>733</td>
+      <td>608</td>
       <td>670.5</td>
     </tr>
     <tr>
-      <th>729</th>
+      <th>599</th>
       <td>이월드</td>
       <td>084680</td>
       <td>1.62</td>
       <td>99.78</td>
+      <td>581</td>
+      <td>777</td>
       <td>679.0</td>
     </tr>
     <tr>
-      <th>730</th>
+      <th>600</th>
       <td>조비</td>
       <td>001550</td>
       <td>2.00</td>
       <td>80.28</td>
+      <td>632</td>
+      <td>726</td>
       <td>679.0</td>
     </tr>
     <tr>
-      <th>731</th>
+      <th>601</th>
       <td>더존비즈온</td>
       <td>012510</td>
       <td>9.62</td>
       <td>52.05</td>
+      <td>777</td>
+      <td>599</td>
       <td>688.0</td>
     </tr>
     <tr>
-      <th>732</th>
+      <th>602</th>
       <td>대웅제약</td>
       <td>069620</td>
       <td>4.13</td>
       <td>68.12</td>
+      <td>730</td>
+      <td>649</td>
       <td>689.5</td>
     </tr>
     <tr>
-      <th>733</th>
+      <th>603</th>
       <td>한전기술</td>
       <td>052690</td>
       <td>3.34</td>
       <td>78.74</td>
+      <td>710</td>
+      <td>696</td>
       <td>703.0</td>
     </tr>
     <tr>
-      <th>734</th>
+      <th>604</th>
       <td>한미사이언스</td>
       <td>008930</td>
       <td>7.64</td>
       <td>603.10</td>
+      <td>770</td>
+      <td>641</td>
       <td>705.5</td>
     </tr>
     <tr>
-      <th>735</th>
+      <th>605</th>
       <td>아남전자</td>
       <td>008700</td>
       <td>3.46</td>
       <td>85.68</td>
+      <td>713</td>
+      <td>729</td>
       <td>721.0</td>
     </tr>
     <tr>
-      <th>736</th>
+      <th>606</th>
       <td>부광약품</td>
       <td>003000</td>
       <td>5.90</td>
       <td>76.70</td>
+      <td>753</td>
+      <td>693</td>
       <td>723.0</td>
     </tr>
     <tr>
-      <th>737</th>
+      <th>607</th>
       <td>보령제약</td>
       <td>003850</td>
       <td>2.73</td>
       <td>91.67</td>
+      <td>681</td>
+      <td>773</td>
       <td>727.0</td>
     </tr>
     <tr>
-      <th>738</th>
+      <th>608</th>
       <td>써니전자</td>
       <td>004770</td>
       <td>2.90</td>
       <td>95.00</td>
+      <td>687</td>
+      <td>776</td>
       <td>731.5</td>
     </tr>
     <tr>
-      <th>739</th>
+      <th>609</th>
       <td>에이프로젠 KIC</td>
       <td>007460</td>
       <td>5.97</td>
       <td>84.69</td>
+      <td>755</td>
+      <td>728</td>
       <td>741.5</td>
     </tr>
     <tr>
-      <th>740</th>
+      <th>610</th>
       <td>필룩스</td>
       <td>033180</td>
       <td>6.24</td>
       <td>84.36</td>
+      <td>758</td>
+      <td>727</td>
       <td>742.5</td>
     </tr>
     <tr>
-      <th>741</th>
+      <th>611</th>
       <td>시디즈</td>
       <td>134790</td>
       <td>6.54</td>
       <td>881.25</td>
+      <td>762</td>
+      <td>733</td>
       <td>747.5</td>
     </tr>
   </tbody>
