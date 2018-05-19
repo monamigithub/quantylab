@@ -1,6 +1,6 @@
 title: About
 date: 2016-01-01
-slug: 
+slug: about
 tags: 김문권, quantylab, 퀀트투자연구소
 
 - Name: Moon Kwon Kim (김문권, 金文權)
@@ -26,7 +26,16 @@ tags: 김문권, quantylab, 퀀트투자연구소
 - Services Computing
 - Information Retrieval
 
-## Publications
+## Publications - Books
+
+- [김문권, 파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자 - 퀀트 투자, 알고리즘 트레이딩을 위한 최첨단 해법 입문: 위키북스, 2018.](/deep-learning-trading)
+  - [위키북스](http://wikibook.co.kr/deep-learning-trading/)
+  - [Yes24](http://www.yes24.com/24/goods/60890714?scode=032&OzSrank=1)
+  - [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791158391065)
+  - [인터파크](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=284220801)
+  - [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=146574503)
+
+## Publications - Research Papers
 
 ### Year 2016
 

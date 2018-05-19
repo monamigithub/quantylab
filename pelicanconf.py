@@ -97,6 +97,8 @@ EXTRA_PATH_METADATA = {
     'extra/naver05a93500b403624c88b17792fedd5191.html': {'path': 'naver05a93500b403624c88b17792fedd5191.html'},
 }
 
+IGNORE_FILES = ['.*']
+
 READERS = {'html': None}
 
 CUSTOM_CSS = 'static/custom.css'
