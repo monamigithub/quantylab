@@ -8,7 +8,7 @@ now = datetime.datetime.now()
 
 AUTHOR = '김문권'
 SITEURL = 'https://quantylab.github.io'
-SITENAME = 'QuantyLab'
+SITENAME = 'Quantylab'
 SITETITLE = SITENAME
 SITESUBTITLE = '퀀트투자 연구소'
 SITEDESCRIPTION = ''
