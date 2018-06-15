@@ -37,6 +37,10 @@ tags: 김문권, quantylab, 퀀트투자연구소
 
 ## Publications - Research Papers
 
+### Year 2018
+
+- H. La, M. Kim, H. Jung, and S. Kim, "Methods for Analyzing Preference Tendencies and Activity Patterns with Audio Contexts," ournal of The Korea Institute of Information Scientists and Engineers, Vol. 45, No. 4, pp. 348-359, April 2018.
+
 ### Year 2016
 
 - M. Kim, H. Jung, H. La, and S. Kim, “A Personal Health Index System with IoT Devices,” In Proceedings of the 5th IEEE International Conference on Mobile Services (MS 2016), pp. 174-177, San Francisco, USA, June, 2016.
