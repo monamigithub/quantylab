@@ -115,7 +115,7 @@ GOOGLE_ADSENSE = {
     'ads': {
         'aside1': '7692470929',
         'aside2': '3237958541',
-        'main_menu': '1866596466',
+        'main_menu': '',
         'index_top': '',
         'index_bottom': '5684166949',
         'article_top': '',
