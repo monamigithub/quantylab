@@ -8,11 +8,11 @@ now = datetime.datetime.now()
 
 AUTHOR = '김문권'
 SITEURL = 'https://quantylab.github.io'
-SITENAME = 'Quantylab'
+SITENAME = '퀀티랩 Quantylab'
 SITETITLE = SITENAME
 SITESUBTITLE = '퀀트투자 연구소'
-SITEDESCRIPTION = ''
-SITELOGO = None
+SITEDESCRIPTION = '파이썬을 이용한 퀀트투자 연구'
+SITELOGO = '/images/logo.png'
 FAVICON = '/images/favicon.ico'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'vs'
@@ -95,6 +95,8 @@ EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
     'extra/googlefaf75a5303a8d9f4.html': {'path': 'googlefaf75a5303a8d9f4.html'},
     'extra/naver05a93500b403624c88b17792fedd5191.html': {'path': 'naver05a93500b403624c88b17792fedd5191.html'},
+    'extra/images/favicon.ico': {'path': 'images/favicon.ico'},
+    'extra/images/logo1.png': {'path': 'images/logo.png'},
 }
 
 IGNORE_FILES = ['.*']
@@ -111,7 +113,8 @@ GOOGLE_ADSENSE = {
     'ca_id': 'ca-pub-3183919385403812',
     'page_level_ads': True,
     'ads': {
-        'aside': '7692470929',
+        'aside1': '7692470929',
+        'aside2': '3237958541',
         'main_menu': '1866596466',
         'index_top': '',
         'index_bottom': '5684166949',
@@ -119,5 +122,3 @@ GOOGLE_ADSENSE = {
         'article_bottom': '7257980762',
     }
 }
-
-GOOGLE_ANALYTICS = 'UA-111763758-1'
