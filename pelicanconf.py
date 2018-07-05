@@ -122,3 +122,5 @@ GOOGLE_ADSENSE = {
         'article_bottom': '7257980762',
     }
 }
+
+GOOGLE_ANALYTICS = 'UA-111763758-1'
