@@ -99,7 +99,7 @@ EXTRA_PATH_METADATA = {
     'extra/images/logo1.png': {'path': 'images/logo.png'},
 }
 
-IGNORE_FILES = ['.*']
+IGNORE_FILES = ['.*', '*.ipynb']
 
 READERS = {'html': None}
 
