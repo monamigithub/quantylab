@@ -123,7 +123,7 @@ GOOGLE_ADSENSE = {
     }
 }
 
-GOOGLE_ANALYTICS = 'UA-111763758-1'
+GOOGLE_ANALYTICS = 'UA-111763758-2'
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
