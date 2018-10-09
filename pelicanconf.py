@@ -8,9 +8,9 @@ now = datetime.datetime.now()
 
 AUTHOR = '김문권'
 SITEURL = 'https://quantylab.github.io'
-SITENAME = '퀀티랩 Quantylab'
+SITENAME = '퀀티랩 블로그'
 SITETITLE = SITENAME
-SITESUBTITLE = '퀀트투자 연구소'
+SITESUBTITLE = '퀀티랩 블로그'
 SITEDESCRIPTION = '파이썬을 이용한 퀀트투자 연구'
 SITELOGO = '/images/logo.png'
 FAVICON = '/images/favicon.ico'
