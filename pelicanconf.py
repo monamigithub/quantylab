@@ -41,7 +41,7 @@ USE_FOLDER_AS_CATEGORY = True
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
-#LINKS = (('Portfolio', 'http://alexandrevicenzi.com'),)
+LINKS = (('퀀티랩', 'http://quantylab.com'),)
 
 SOCIAL = (('github', 'https://github.com/quantylab'),
           ('linkedin', 'https://www.linkedin.com/in/moonkwonkim'))
