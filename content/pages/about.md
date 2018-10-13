@@ -1,4 +1,4 @@
-title: About
+title: 운영자 소개
 date: 2016-01-01
 slug: about
 tags: 김문권, quantylab, 퀀트투자연구소
